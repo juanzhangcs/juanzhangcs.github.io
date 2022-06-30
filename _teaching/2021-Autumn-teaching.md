@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2021-Autumn-teaching
 venue: "University of Exeter, Department of Computer Science"
-date: 2015-01-01
+date: Autumn, 2021
 location: "Exeter, UK"
 ---
 140hrs workshop for year 2 students.
