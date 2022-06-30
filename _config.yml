@@ -13,7 +13,7 @@ name                     : &name "Juan Zhang"
 description              : &description "personal description"
 url                      : https://juanzhangcs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "juanzhangcs.github.io"
+repository               : "juanzhangcs/juanzhangcs.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Unl9W2IAAAAJ&hl=en"
-  email            :
+  email            : "jz397@exeter.ac.uk"
   researchgate     :  "https://www.researchgate.net/profile/Juan-Zhang-20"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3056-4793"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
