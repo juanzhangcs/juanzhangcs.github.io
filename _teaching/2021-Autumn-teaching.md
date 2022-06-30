@@ -2,8 +2,8 @@
 title: "ECM2414: Software Development"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2021-Autumn-teaching
-venue: "University of Exeter, Department of Computer Science"
+permalink: /teaching/2021-autumn-teaching
+venue: "University of Exeter, Department of Computer Science, Autumn"
 date: 2021-01-01
 location: "Exeter, UK"
 ---
