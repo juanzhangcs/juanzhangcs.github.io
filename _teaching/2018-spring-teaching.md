@@ -1,5 +1,5 @@
 ---
-title: "ECM2427 Outside The Box: Computer Science Research and Applications"
+title: "ECM2427: Outside The Box: Computer Science Research and Applications"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2018-spring-teaching
