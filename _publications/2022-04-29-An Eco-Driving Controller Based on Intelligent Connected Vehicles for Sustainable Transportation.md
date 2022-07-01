@@ -13,6 +13,5 @@ The rapid increase in the number of vehicles has brought significant challenges 
 [Download paper here](https://doi.org/10.3390/app12094533)
 
 
-Recommended citation: Wang, P.; Ye, R.; Zhang, J.; Wang, T. An Eco-Driving Controller Based on Intelligent Connected Vehicles for Sustainable Transportation. Appl. Sci. 2022, 12, 4533. https://doi.org/10.3390/app12094533
 
 
