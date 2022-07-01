@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2022-04-29-An Eco-Driving Controller Based on Intelligent Connected Vehicles for Sustainable Transportation
 excerpt: 'This paper is about an intelligent connected vehicles controller  built for sustainable transportation.'
 date: 2022-04-29
-venue: 'Applied Science''
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Wang, P.; Ye, R.; Zhang, J.; Wang, T. An Eco-Driving Controller Based on Intelligent Connected Vehicles for Sustainable Transportation. Appl. Sci. 2022, 12, 4533. https://doi.org/10.3390/ app12094533'
 ---
