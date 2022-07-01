@@ -10,11 +10,4 @@ location: "Exeter, UK"
 
 60hrs workshop for master students.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======

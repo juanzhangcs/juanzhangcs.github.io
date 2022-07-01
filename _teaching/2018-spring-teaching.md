@@ -9,11 +9,3 @@ location: "Exeter, UK"
 ---
 90hrs workshop for year 2 students.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
