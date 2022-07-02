@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-11-paper-title-Short-Term Traffic State Prediction Based on Mobile Edge Computing in V2X Communication
 excerpt: 'In this paper, a short-term traffic prediction model based on complex neural network is proposed under the environment of vehicle-to-everything (V2X) communication systems.'
 date: 2021-11-01
-venue: 'Journal 1'
+venue: 'Applied Science'
 paperurl: 'https://doi.org/10.3390/app112311530'
 citation: 'Wang,P.;Liu,X.;Wang,Y.; Wang, T.; Zhang, J. Short-Term Traffic State Prediction Based on Mobile Edge Computing in V2X Communication. Appl. Sci. 2021, 11, 11530.'
 ---
