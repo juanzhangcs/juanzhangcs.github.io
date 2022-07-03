@@ -7,7 +7,7 @@ redirect_from:
   - /news.html
 ---
 
-## News
+* I have passed the defense of Ph.D. dissertation.
 <!--
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
@@ -200,4 +200,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
->
+-->
