@@ -18,12 +18,12 @@ Work experience
 * PhD researcher
   * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK
   * Duties included: Offloading decision making strategies in mobile edge computing
-  * Supervisor: Professor Git
+  % * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * University of Otago, New Zealand
+  // * Duties included: Merging pull requests
+  // * Supervisor: Professor Hub 
   
 Skills
 ======
