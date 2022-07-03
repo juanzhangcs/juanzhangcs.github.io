@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 * I have passed the defense of Ph.D. dissertation.
-<!--
+
+
+<!--  
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
