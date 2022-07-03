@@ -38,6 +38,12 @@ Work experience
 * Jul. 2011 -- Jul. 2013: Research Assistant.
   * Beihang University, Beijing, China
   * Topic: Ontology knowledge platform for failure modes identification and verification; Safety analysis --  Failure modes and effects analysis for embedded software systems.
+
+* Jul. 2011 -- Jan. 2013: Project member.
+  * AVIC Aerospace Power Control System Research Institute, Wuxi, China
+  * Topic: Software FMEA for Engine Control System of a Specific Aircraft.
+  
+
   
 Skills
 ======
