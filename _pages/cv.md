@@ -72,6 +72,16 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Academic Service
 ======
-* Currently signed in to 43 different slack teams
+Reviewer for
+* Computer Networks.
+* Transactions on Sustainable Computing.
+* Transactions on Intelligent Transportation Systems. 
+* Transactions on the Web.
+* Transactions on Network and Service Management. 
+* Transactions on Network Science and Engineering. 
+* Future Generation Computer Systems.
+* Journal of Parallel and Distributed Computing. 
+* Transactions on Cloud Computing.
+* etc.
