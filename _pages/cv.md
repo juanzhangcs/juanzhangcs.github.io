@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Science, University of Exeter, UK
 
-Work experience
+Research & Project Experience
 ======
 * PhD researcher
   * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK
