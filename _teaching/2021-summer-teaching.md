@@ -8,6 +8,6 @@ date: 2021-01-01
 location: "Exeter, UK"
 ---
 
-#### 60hrs workshop for master students.
+60hrs workshop for master students.
 
 
