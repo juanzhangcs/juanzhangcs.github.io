@@ -7,8 +7,8 @@ redirect_from:
   - /news.html
 ---
 
-## Locations of key files/directories
-
+## News
+<!--
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
@@ -200,3 +200,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
+>
