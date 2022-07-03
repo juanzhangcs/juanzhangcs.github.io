@@ -1,5 +1,5 @@
 ---
-title: "ECMM445: Learning from Data"
+title: "### ECMM445: Learning from Data"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2021-summer-teaching
