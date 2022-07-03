@@ -15,9 +15,9 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* PhD researcher
+  * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK
+  * Duties included: Offloading decision making strategies in mobile edge computing
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
