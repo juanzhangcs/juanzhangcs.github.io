@@ -25,6 +25,6 @@ My Research interests lie in:<br />
  <br />
  <br /> 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=rKGOkYk87D2AaYuuXW3hC0b67W1qgM1UuZOIW8Fp1UY&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=n&d=rKGOkYk87D2AaYuuXW3hC0b67W1qgM1UuZOIW8Fp1UY'></script>
  <br />
  <br />
