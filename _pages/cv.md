@@ -23,7 +23,7 @@ Research & Project Experience
   * University of Otago, New Zealand
   * Topic: QoE-aware and energy-efficiency in mobile multimedia transmission.
 
-* 2014 -- 2015: PhD student|Research Assistant
+* 2014 -- 2015: PhD student & Research Assistant
   * Beihang University, Beijing, China
   * Topic: Big data and Reliability in Traffic Networks. 
 
