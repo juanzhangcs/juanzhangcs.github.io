@@ -3,7 +3,7 @@ title: "QoE-Aware and Energy-Efficient Transmission of Multimedia Traffic in Wir
 collection: publications
 permalink: /publication/2018-10-28-QoE-Aware and Energy-Efficient Transmission of Multimedia Traffic in Wireless Networks
 excerpt: 'This paper discusses the existing approaches for achieving QoE-aware and energy efficient video transmission from different perspectives such as resource allocation, traffic buffering and other scheduling strategies.'
-date: 2021-06-14
+date: 2018-10-28
 venue: 'International Conference on Sensor Networks and Signal Processing (SNSP)'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8615914'
 citation: 'J. Zhang, Y. Chen, H. Zhang and F. Zhang, "QoE-Aware and Energy-Efficient Transmission of Multimedia Traffic in Wireless Networks," 2018 International Conference on Sensor Networks and Signal Processing (SNSP), 2018, pp. 152-157, doi: 10.1109/SNSP.2018.00036.'
