@@ -9,3 +9,9 @@ redirect_from:
 ---
 
 Welcome! I received my Ph.D degree from Department of Computer Science, the University of Exeter, UK. Before that, I worked and studied at the University of Otago, New Zealand, and Beihang University, Beijing, China. I received my master degree in Control Science and Engineering, and Bachelor Degree in Mechanical Design, Manufacture and Its Automation.
+
+
+
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=rKGOkYk87D2AaYuuXW3hC0b67W1qgM1UuZOIW8Fp1UY&cl=ffffff&w=a"></script>
