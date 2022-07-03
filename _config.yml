@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Juan Zhang"
   avatar           : "exm.png"
-  bio              : "Researcher"
+  bio              : # "Researcher"
   location         : "U.K."
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
