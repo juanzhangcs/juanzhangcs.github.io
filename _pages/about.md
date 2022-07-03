@@ -12,9 +12,9 @@ Welcome! I received my Ph.D degree from Department of Computer Science, the Univ
 <br />
 <br />
 My research interests include: <br />
-  * <b>Mobile edge computing</b> <br />
-  * <b>Internet of things</b><br />
-  * <b>Decision-making strategies</b> for future mobile networks
+  * Mobile edge computing <br />
+  * Internet of things<br />
+  * Decision-making strategies for future mobile networks
 
  <br />
  <br />
