@@ -39,7 +39,7 @@ Research & Project Experience
   * Beihang University, Beijing, China
   * Topic: Ontology knowledge platform for failure modes identification and verification; Safety analysis --  Failure modes and effects analysis for embedded software systems.
 
-* Jul. 2011 -- Jan. 2013: Project member.
+* Jul. 2011 -- Jan. 2013: Project Member.
   * AVIC Aerospace Power Control System Research Institute, Wuxi, China
   * Topic: Software FMEA for engine control system of a specific aircraft.
   
