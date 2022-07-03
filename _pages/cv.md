@@ -17,13 +17,27 @@ Work experience
 ======
 * PhD researcher
   * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK
-  * Duties included: Offloading decision making strategies in mobile edge computing
-  <!-- * Supervisor: Professor Git>
+  * Topic: Offloading decision making strategies in mobile edge computing.
 
-* 2015--2017: Research Assistant
+* 2015 -- 2017: Research Assistant
   * University of Otago, New Zealand
-  <!-- * Duties included: Merging pull requests
-     * Supervisor: Professor Hub> 
+  * Topic: QoE-aware and energy-efficiency in mobile multimedia transmission.
+
+* 2014 -- 2015: PhD student|Research Assistant
+  * Beihang University, Beijing, China
+  * Topic: Big data and Reliability in Traffic Networks. 
+
+* Mar. 2014 -- Sep. 2014: Network Architecture Engineer Internship.
+  * SINA Company, Beijing, China
+  * Topic: Designed and developed an ontology-based intelligent system to automatically warn faults of servers.
+ 
+* Sep. 2013 -- Mar. 2014: Research Assistant.
+  * Tsinghua University, Beijing, China
+  * Topic: Laser cladding-melting- Sintering L-SS platform software system.
+
+* Jul. 2011 -- Jul. 2013: Research Assistant.
+  * Beihang University, Beijing, China
+  * Topic: Ontology knowledge platform for failure modes identification and verification; Safety analysis --  Failure modes and effects analysis for embedded software systems.
   
 Skills
 ======
