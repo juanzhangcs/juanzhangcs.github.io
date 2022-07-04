@@ -15,7 +15,9 @@ My research interests include:
   * Internet of things
   * Decision-making strategies for future mobile networks
  <br />
- I am also an Associate Fellow of UKPSF for teaching and supporting learning in higher education, recognized by Advance HE.
+ <br />
+ ---
+I am also an Associate Fellow of UKPSF for teaching and supporting learning in higher education, recognized by Advance HE.
  <br />
  <br />
  <br />
