@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+### Education
 ======
 * Ph.D in Computer Science, University of Exeter, UK
 
-Research & Project Experience
+### Research & Project Experience
 ======
 * PhD researcher
   * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK
@@ -54,25 +54,25 @@ Research & Project Experience
   * Sub-skill 2.3
 * Skill 3-->
 
-Publications
+### Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+### Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+### Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Academic Service
+### Academic Service
 ======
 Reviewer for
 * Computer Networks.
