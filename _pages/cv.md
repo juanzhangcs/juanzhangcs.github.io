@@ -85,3 +85,21 @@ Reviewer for
 * Journal of Parallel and Distributed Computing. 
 * Transactions on Cloud Computing.
 * etc.
+Program Committee:
+* Dec. 2021, Web and System Management Chair, London/Exeter, U.K.
+  * The 11th International Conference on Smart Computing, Networking and Services (SmartCNS-2021) 
+  * The The 20th International Conference on Ubiquitous Computing and Communications (IUCC-2021)
+  * The 20th International Conference on Computer and Information Technology (CIT-2021)
+  * The 4th International Conference on Data Science and Computational Intelligence (DSCI-2021)
+* Dec. 2020, Local Arrangement Chair, Exeter, U.K.
+  * The 13th IEEE International symposium on Social Computing and Networking (SocialCom-2020)
+  * The 18th IEEE International symposium on Parallel and Distributed Processing with Applications (ISPA-2020)
+  * The 10th IEEE International Conference on Big Data and Cloud Computing (BDCloud-2020)
+  * The 10th IEEE International Conference on Sustainable Computing and Communications (SustainCom-2020)
+  * The 19th International conference on Ubiquitous Computing and Communications
+* Sep. 2018 Session Chair, Exeter, U.K.
+  * The 9th EAI International Conference on Big Data Technologies and Applications (BDTA)
+* Jun. 2018, Session Chair, Exeter, U.K.
+  * The 20th IEEE International Conference on High Performance Computing and Communications(HPSS-2018)
+* Session Chair, Dunedin, New Zealand.
+  * Dec. 2016, The 26th International Telecommunication Networks and Applications Conference (ITNAC), University of Otago
