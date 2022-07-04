@@ -53,7 +53,7 @@ redirect_from:
   * Sub-skill 2.3
 * Skill 3-->
 
- ## Publications
+## Publications
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -84,7 +84,9 @@ Reviewer for
 * Journal of Parallel and Distributed Computing. 
 * Transactions on Cloud Computing.
 * etc.
-<br/>
+<br />
+<br />
+
 Program Committee:
 * Dec. 2021, Web and System Management Chair, London/Exeter, U.K.
   * The 11th International Conference on Smart Computing, Networking and Services (SmartCNS-2021) 
