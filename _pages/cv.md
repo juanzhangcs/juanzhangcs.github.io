@@ -85,12 +85,11 @@ Reviewer for
 * Transactions on Cloud Computing.
 * etc.
 <br />
-<br />
 
 Program Committee:
 * Dec. 2021, Web and System Management Chair, London/Exeter, U.K.
   * The 11th International Conference on Smart Computing, Networking and Services (SmartCNS-2021) 
-  * The The 20th International Conference on Ubiquitous Computing and Communications (IUCC-2021)
+  * The 20th International Conference on Ubiquitous Computing and Communications (IUCC-2021)
   * The 20th International Conference on Computer and Information Technology (CIT-2021)
   * The 4th International Conference on Data Science and Computational Intelligence (DSCI-2021)
 * Dec. 2020, Local Arrangement Chair, Exeter, U.K.
@@ -99,7 +98,7 @@ Program Committee:
   * The 10th IEEE International Conference on Big Data and Cloud Computing (BDCloud-2020)
   * The 10th IEEE International Conference on Sustainable Computing and Communications (SustainCom-2020)
   * The 19th International conference on Ubiquitous Computing and Communications
-* Sep. 2018 Session Chair, Exeter, U.K.
+* Sep. 2018, Session Chair, Exeter, U.K.
   * The 9th EAI International Conference on Big Data Technologies and Applications (BDTA)
 * Jun. 2018, Session Chair, Exeter, U.K.
   * The 20th IEEE International Conference on High Performance Computing and Communications(HPSS-2018)
