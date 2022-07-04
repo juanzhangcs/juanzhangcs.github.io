@@ -32,14 +32,14 @@ redirect_from:
  
 * Sep. 2013 -- Mar. 2014: Research Assistant.
   * Department of Automation, Tsinghua University, Beijing, China
-  * Topic: Laser cladding-melting- Sintering L-SS platform software system.
+  * Topic: Laser cladding-melting-Sintering L-SS platform software system.
 
 * Jul. 2011 -- Jul. 2013: Research Assistant.
   * Beihang University, Beijing, China
   * Topic: Reliability and safety analysis with FMEA
-    * Development of ontology knowledge platform for failure modes identification and verification;
-    * Safety analysis of aircraft embedded software systems based on multiple synergistic models;
-    * Software FMEA development for embedded software systems.
+    * Project 3: Development of ontology knowledge platform for failure modes identification and verification;
+    * Project 2: Safety analysis of aircraft embedded software systems based on multiple synergistic models;
+    * Project 1: Software FMEA development for embedded software systems.
 
 * Jul. 2011 -- Jan. 2013: Project Member.
   * AVIC Aerospace Power Control System Research Institute, Wuxi, China
