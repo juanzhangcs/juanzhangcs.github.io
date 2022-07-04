@@ -36,7 +36,10 @@ redirect_from:
 
 * Jul. 2011 -- Jul. 2013: Research Assistant.
   * Beihang University, Beijing, China
-  * Topic: Ontology knowledge platform for failure modes identification and verification; Safety analysis --  Failure modes and effects analysis for embedded software systems.
+  * Topic: Reliability and safety analysis with FMEA
+    ** Development of ontology knowledge platform for failure modes identification and verification;
+    ** Safety analysis of aircraft embedded software systems based on multiple synergistic models;
+    ** Software FMEA development for embedded software systems.
 
 * Jul. 2011 -- Jan. 2013: Project Member.
   * AVIC Aerospace Power Control System Research Institute, Wuxi, China
