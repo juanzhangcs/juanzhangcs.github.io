@@ -102,5 +102,5 @@ Program Committee:
   * The 9th EAI International Conference on Big Data Technologies and Applications (BDTA)
 * Jun. 2018, Session Chair, Exeter, U.K.
   * The 20th IEEE International Conference on High Performance Computing and Communications(HPSS-2018)
-* Session Chair, Dunedin, New Zealand.
-  * Dec. 2016, The 26th International Telecommunication Networks and Applications Conference (ITNAC), University of Otago
+* Dec. 2016, Session Chair, Dunedin, New Zealand.
+  * The 26th International Telecommunication Networks and Applications Conference (ITNAC), University of Otago
