@@ -9,16 +9,13 @@ redirect_from:
 ---
 
 Welcome! I received my Ph.D degree from Department of Computer Science, the University of Exeter, UK. Before that, I worked and studied at the University of Otago, New Zealand, and Beihang University, Beijing, China. I received my master degree in Control Science and Engineering, and Bachelor Degree in Mechanical Design, Manufacture and Its Automation.<br />
-
-I am an Associate Fellow of UKPSF for teaching and supporting learning in higher eduction, recognized by Advance HE.
-
 <br />
 My research interests include: 
   * Mobile edge computing 
   * Internet of things
   * Decision-making strategies for future mobile networks
-
  <br />
+ I am also an Associate Fellow of UKPSF for teaching and supporting learning in higher education, recognized by Advance HE.
  <br />
  <br />
  <br />
