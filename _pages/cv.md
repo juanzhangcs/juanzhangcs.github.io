@@ -73,6 +73,13 @@ redirect_from:
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+## Honours
+* International Excellence Scholarship for PhD study, University of Exeter, UK.
+* First-class Scholarship for PhD study, School of Transportation Science and Engineering, Beihang University, China.
+* Distinction Award, Graduate School of Beihang University, China.
+* Excellent Graduate Award, Graduate School of Beihang University, China.
+* Outstanding Session Chair Award, Graduate School of Beihang University, China.
   
 ## Academic Service
 
