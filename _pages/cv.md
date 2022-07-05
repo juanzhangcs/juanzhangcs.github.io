@@ -80,7 +80,7 @@ redirect_from:
 * Distinction Award, Graduate School of Beihang University, China.
 * Excellent Graduate Award, Graduate School of Beihang University, China.
 * Outstanding Session Chair Award, Graduate School of Beihang University, China.
-* First-class Scholarships, School of Systems and Engineering, Beihang University, China.
+* First-class Scholarships, School of Reliability and Systems Engineering, Beihang University, China.
 
 ## Academic Service
 Reviewer for
