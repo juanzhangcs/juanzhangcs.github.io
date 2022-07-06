@@ -13,6 +13,7 @@ Welcome! I received my Ph.D degree from Department of Computer Science, the Univ
 My research interests include: 
   * Mobile edge computing 
   * Internet of things
+  * Intelligent transportation systems
   * Decision-making strategies for future mobile networks
  <br />
  <br />
