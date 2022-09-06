@@ -24,13 +24,12 @@ I am also an Associate Fellow of UKPSF for teaching and supporting learning in h
 <br />
 
 # Contact
-Dr. Juan Zhang<br />
-Room:011<br />
-H11, Holstenhofweg 85, 22043 Hamburg
+Dr. Juan Zhang <br />
+Room:011, H11, Holstenhofweg 85, 22043 Hamburg <br />
 High Performance Computing<br />
-Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg<br />
-Phone:(040) 6541-2466<br />
-Fax:(040) 6541-2513<br />
+Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg <br />
+Phone:(040) 6541-2466 <br />
+Fax:(040) 6541-2513 <br />
 E-mail: juan.zhang@hsu-hh.de
 
 
