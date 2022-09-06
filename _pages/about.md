@@ -30,7 +30,7 @@ High Performance Computing<br />
 Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg <br />
 Phone: (040) 6541-2466 <br />
 Fax: (040) 6541-2513 <br />
-E-mail: juan.zhang@hsu-hh.de
+E-mail: juan.zhang@hsu-hh.de; juazhang@outlook.com
 
 
  <br />
