@@ -19,8 +19,25 @@ My research interests include:
  <br />
 
 I am also an Associate Fellow of UKPSF for teaching and supporting learning in higher education, recognized by Advance HE.
- <br />
- <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## Contact
+Dr. Juan Zhang
+Room:011
+Phone:(040) 6541-2466
+Fax:(040) 6541-2513
+Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg
+Faculty of Mechanical Engineering
+High Performance Computing
+P.O. Box 70 08 22
+22008 Hamburg
+E-mail:juan.zhang@hsu-hh.de
+
+
  <br />
  <br />
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=285&t=n&d=rKGOkYk87D2AaYuuXW3hC0b67W1qgM1UuZOIW8Fp1UY'></script>
