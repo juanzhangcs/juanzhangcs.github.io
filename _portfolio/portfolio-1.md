@@ -4,4 +4,4 @@ excerpt: "The control system of an aircraft. <br/><img src='/images/planecontrol
 collection: portfolio
 ---
 
- The control system of an aircraft.
+ I was involved in several projects in embedded control systems, specially in control system of a specific aircraft. 
