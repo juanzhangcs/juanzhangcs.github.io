@@ -16,7 +16,6 @@ My research interests include:
   * Intelligent transportation systems
   * Decision-making strategies for future mobile networks
  <br />
- <br />
 
 I am also an Associate Fellow of UKPSF for teaching and supporting learning in higher education, recognized by Advance HE.
 <br />
