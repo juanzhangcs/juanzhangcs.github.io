@@ -18,8 +18,6 @@ My research interests include:
  <br />
 <br />
 
-Feel free to contact for cooperation or just discussion about these topics if interested.<br />
-
 I am also an Associate Fellow of UKPSF for teaching and supporting learning in higher education, recognized by Advance HE.
 <br />
 <br />
