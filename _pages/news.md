@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 ## 2022
-  * (09/2022) Been invited as a reviewer of Journal of Parallel and Distributed Computing.
-  * (09/2022) Been invited as a reviewer of International Journal of Adaptive Control and Signal Processing.  
+  * (09/2022) Been invited as a reviewer of Neurocomputing.
+  * (09/2022) Been invited as a reviewer of Parallel and Distributed Computing.
+  * (09/2022) Been invited as a reviewer of Journal of Adaptive Control and Signal Processing.  
   * (09/2022) Been invited as a reviewer of Journal Mathematics. 
   * (09/2022) Been involved in the project of SmartShip.  
   * (07/2022) Been invited as a reviewer of Journal Expert Systems With Applications.
