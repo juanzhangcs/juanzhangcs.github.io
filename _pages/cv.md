@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
+
 * Ph.D in Computer Science, University of Exeter, UK
 
 ## Research & Project Experience
@@ -24,7 +25,7 @@ redirect_from:
 
 * 2014 -- 2015: PhD student & Research Assistant
   * Beihang University, Beijing, China
-  * Topic: Big data and Reliability in Traffic Networks. 
+  * Topic: Big data and Reliability in Traffic Networks.
 
 * Mar. 2014 -- Sep. 2014: Network Architecture Engineer Internship
   * SINA Company, Beijing, China
@@ -44,8 +45,6 @@ redirect_from:
 * Jul. 2011 -- Jan. 2013: Project Member
   * AVIC Aerospace Power Control System Research Institute, Wuxi, China
   * Topic: Software FMEA for the engine control system of a specific aircraft.
-  
-
   
 <!--Skills
 ======
@@ -75,15 +74,18 @@ redirect_from:
   {% endfor %}</ul>
 
 ## Honours
+
 * International Excellence Scholarship for PhD study, University of Exeter, UK.
-* First-class Scholarship for PhD study, School of Transportation Science and Engineering, Beihang University, China.
-* Distinction Award, Graduate School of Beihang University, China.
-* Excellent Graduate Award, Graduate School of Beihang University, China.
-* Outstanding Session Chair Award, Graduate School of Beihang University, China.
-* First-class Scholarships, School of Reliability and Systems Engineering, Beihang University, China.
+* First-class Scholarship for PhD study, School of Transportation Science and Engineering, Beihang University, Beijing, China.
+* Distinction Award, Graduate School of Beihang University, Beijing, China.
+* Excellent Graduate Award, Graduate School of Beihang University, Beijing, China.
+* Outstanding Session Chair Award, Graduate School of Beihang University, Beijing, China.
+* First-class Scholarships, School of Reliability and Systems Engineering, Beihang University, Beijing, China.
 
 ## Academic Service
+
 Reviewer for
+
 * Computer Networks.
 * Transactions on Sustainable Computing.
 * Transactions on Intelligent Transportation Systems. 
@@ -94,11 +96,11 @@ Reviewer for
 * Journal of Parallel and Distributed Computing. 
 * Transactions on Cloud Computing.
 * etc.
-<br />
 
 Program Committee:
+
 * Dec. 2021, Web and System Management Chair, London/Exeter, U.K.
-  * The 11th International Conference on Smart Computing, Networking and Services (SmartCNS-2021) 
+  * The 11th International Conference on Smart Computing, Networking and Services (SmartCNS-2021)
   * The 20th International Conference on Ubiquitous Computing and Communications (IUCC-2021)
   * The 20th International Conference on Computer and Information Technology (CIT-2021)
   * The 4th International Conference on Data Science and Computational Intelligence (DSCI-2021)
