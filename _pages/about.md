@@ -10,11 +10,13 @@ redirect_from:
 
 Welcome! I received my Ph.D degree from [Department of Computer Science](https://computerscience.exeter.ac.uk/), the [University of Exeter](https://www.exeter.ac.uk/), UK. Prior to that, I worked and studied at the [University of Otago](https://www.otago.ac.nz/), New Zealand, and [Beihang University](https://ev.buaa.edu.cn/), Beijing, China. I received my Master Degree in Control Science and Engineering, and Bachelor Degree in Mechanical Design, Manufacture and Its Automation.<br />
 <br />
-My research interests include: 
-  * Mobile edge computing 
-  * Internet of things
-  * Intelligent transportation systems
-  * Decision-making strategies for future mobile networks
+
+My research interests include:
+
+* Mobile edge computing
+* Internet of things
+* Intelligent transportation systems
+* Decision-making strategies for future mobile networks
  <br />
 
 I am also enthusiastic to teach and work with highly motivated students, and very excited to see students making progress. In qualification, I am an Associate Fellow of UKPSF for teaching and supporting learning in higher education, recognized by Advance HE.
@@ -23,15 +25,15 @@ I am also enthusiastic to teach and work with highly motivated students, and ver
 <br />
 
 # Contact
+
 Dr. Juan Zhang <br />
 <!--Room 011, H11, Holstenhofweg 85, 22043 Hamburg <br />-->
 High Performance Computing<br />
 Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg <br />
-Phone: <font face="Bodoni 72 Oldstyle"> (+49) 40 6541-2466 </font> <br />
+Phone: (+49) 40 6541-2466 <br />
 Fax: (+49) 40 6541-2513 <br />
 E-mail: juan.zhang@hsu-hh.de
 <!--juazhang@outlook.com-->
-
 
  <br />
  <br />
