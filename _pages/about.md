@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I received my Ph.D degree from [Department of Computer Science](https://computerscience.exeter.ac.uk/), the [University of Exeter](https://www.exeter.ac.uk/), UK. Prior to that, I worked and studied at the [University of Otago](https://www.otago.ac.nz/), New Zealand, and [Beihang University](https://ev.buaa.edu.cn/), Beijing, China. I received my Master Degree in Control Science and Engineering, and Bachelor Degree in Mechanical Design, Manufacture and Its Automation.<br />
+<!--Welcome! I received my Ph.D degree from [Department of Computer Science](https://computerscience.exeter.ac.uk/), the [University of Exeter](https://www.exeter.ac.uk/), UK. Prior to that, I worked and studied at the [University of Otago](https://www.otago.ac.nz/), New Zealand, and [Beihang University](https://ev.buaa.edu.cn/), Beijing, China. I received my Master Degree in Control Science and Engineering, and Bachelor Degree in Mechanical Design, Manufacture and Its Automation.<br />
+<br />
+-->
+Welcome! I received my Ph.D degree from [Department of Computer Science](https://computerscience.exeter.ac.uk/), the [University of Exeter](https://www.exeter.ac.uk/), UK. Prior to that, I studied at the [Beihang University](https://ev.buaa.edu.cn/), Beijing, China. I received my Master Degree in Control Science and Engineering, and Bachelor Degree in Mechanical Design, Manufacture and Its Automation.<br />
 <br />
 
 My research interests include:
