@@ -7,6 +7,4 @@ venue: "University of Exeter, Department of Computer Science. Spring"
 date: 2019-01-01
 location: "Exeter, UK"
 ---
-60hrs workshop for year 2 students.
-
-
+60hrs workshop for undergraduate students (Year 2).
