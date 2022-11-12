@@ -7,4 +7,4 @@ excerpt: " I was involved in several projects in embedded control systems, speci
 collection: portfolio
 ---
 
- I was involved in several projects in embedded control systems, specially in control system of a specific aircraft.
+ I was involved in several projects in embedded control systems, specialized in control system of a specific aircraft.
