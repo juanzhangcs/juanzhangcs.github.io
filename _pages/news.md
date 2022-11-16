@@ -9,6 +9,7 @@ redirect_from:
 
 ## 2022
 
+* (10/2022) Been invited as a reviewer of Journal Information Sciences.
 * (10/2022) Been invited as a reviewer of Journal Expert Systems With Applications.
 * (09/2022) Been invited as a reviewer of Neurocomputing.
 * (09/2022) Been invited as a reviewer of Parallel and Distributed Computing.
