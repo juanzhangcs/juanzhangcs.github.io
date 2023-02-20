@@ -10,7 +10,6 @@ redirect_from:
 ## 2022
 
 * (02/2023) We have multiple chances of "EU Master in HPC project" such as AI, computer architecture, performance engineering, etc. for double degree, please feel free to contact if interest.
-
 * (10/2022) Been invited as a reviewer of Journal Information Sciences.
 * (10/2022) Been invited as a reviewer of Journal Expert Systems With Applications.
 * (09/2022) Been invited as a reviewer of Neurocomputing.
