@@ -45,7 +45,7 @@ redirect_from:
 * Jul. 2011 -- Jan. 2013: Project Member
   * AVIC Aerospace Power Control System Research Institute, Wuxi, China
   * Topic: Software FMEA for the engine control system of a specific aircraft.
-  >
+  -->
   
 <!--Skills
 ======
