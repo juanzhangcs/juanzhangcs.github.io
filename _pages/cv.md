@@ -41,11 +41,10 @@ redirect_from:
     * Project 3: Development of ontology knowledge platform for failure modes identification and verification;
     * Project 2: Safety analysis of aircraft embedded software systems based on multiple synergistic models;
     * Project 1: Software FMEA development for embedded software systems.
-<!--
-* Jul. 2011 -- Jan. 2013: Project Member
+
+<!--* Jul. 2011 -- Jan. 2013: Project Member
   * AVIC Aerospace Power Control System Research Institute, Wuxi, China
-  * Topic: Software FMEA for the engine control system of a specific aircraft.
-  -->
+  * Topic: Software FMEA for the engine control system of a specific aircraft.-->
   
 <!--Skills
 ======
