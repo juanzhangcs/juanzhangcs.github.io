@@ -9,7 +9,7 @@ redirect_from:
 
 ## 2023
 
-* (02/2023) We have multiple chances of "EU Master in HPC project" such as AI, computer architecture, performance engineering, etc. for double degree, please feel free to contact if you are interested.
+* (02/2023) We have multiple chances of "EU Master in HPC project" in AI, computer architecture, performance engineering, etc. for double degree, please feel free to contact if you are interested.
 
 ## 2022
 
