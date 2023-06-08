@@ -82,6 +82,10 @@ redirect_from:
 * Outstanding Session Chair Award, Graduate School of Beihang University, Beijing, China.
 * First-class Scholarships, School of Reliability and Systems Engineering, Beihang University, Beijing, China.
 
+## Languages
+
+Mandarin Chinese, English, German
+
 ## Academic Service
 
 Reviewer for
