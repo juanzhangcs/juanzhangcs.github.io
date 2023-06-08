@@ -18,7 +18,6 @@ redirect_from:
 * PhD researcher
   * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK
   * Topic: Offloading decision making strategies and applications in mobile edge computing.
-  
 <!--* 2015 -- 2017: Research Assistant
   * University of Otago, New Zealand
   * Topic: QoE-aware and energy-efficiency in mobile multimedia transmission.-->
