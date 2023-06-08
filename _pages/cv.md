@@ -18,10 +18,11 @@ redirect_from:
 * PhD researcher
   * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK
   * Topic: Offloading decision making strategies and applications in mobile edge computing.
-
+<!--*
 * 2015 -- 2017: Research Assistant
   * University of Otago, New Zealand
   * Topic: QoE-aware and energy-efficiency in mobile multimedia transmission.
+  -->
 
 * 2014 -- 2015: PhD student & Research Assistant
   * Beihang University, Beijing, China
@@ -38,9 +39,9 @@ redirect_from:
 * Jul. 2011 -- Jul. 2013: Research Assistant
   * Beihang University, Beijing, China
   * Topic: Reliability and safety analysis with FMEA
-    * Project 3: Development of ontology knowledge platform for failure modes identification and verification;
-    * Project 2: Safety analysis of aircraft embedded software systems based on multiple synergistic models;
-    * Project 1: Software FMEA development for embedded software systems.
+    * Project: Development of ontology knowledge platform for failure modes identification and verification;
+    * Project: Safety analysis of aircraft embedded software systems based on multiple synergistic models;
+    * Project: Software FMEA development for embedded software systems.
 
 <!--* Jul. 2011 -- Jan. 2013: Project Member
   * AVIC Aerospace Power Control System Research Institute, Wuxi, China
