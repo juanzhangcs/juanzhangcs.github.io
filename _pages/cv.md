@@ -84,7 +84,7 @@ redirect_from:
 
 ## Languages
 
-  Mandarin Chinese, English, German
+  Mandarin Chinese, English, German (A1)
 
 ## Academic Service
 
