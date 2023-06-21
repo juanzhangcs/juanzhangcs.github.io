@@ -90,6 +90,7 @@ redirect_from:
 
 Reviewer for
 
+* Neurocomputing
 * Computer Networks.
 * Transactions on Sustainable Computing.
 * Transactions on Intelligent Transportation Systems. 
