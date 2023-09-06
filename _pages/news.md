@@ -9,6 +9,7 @@ redirect_from:
 
 ## 2023
 
+* （09/2023）Review for the Journal Neurocomputing, Information Sciences, and Transactions on Mobile Computing.
 * (06/2023) Review for the Journal Future Generation Computer Systems, and the Journal Neurocomputing.
 * (06/2023) Co-author work entitled "Advancing Maritime Search and Rescue with Object Detection and Digital Twin Condition Monitoring" is presented in [World Maritime Rescue Congress (WMRC 2023)](https://wmrc2023.com/), Rotterdam , Netherlands.
 * (02/2023) We have multiple chances of "EU Master in HPC project" in AI, computer architecture, performance engineering, etc. for double degree, please feel free to contact if you are interested.
