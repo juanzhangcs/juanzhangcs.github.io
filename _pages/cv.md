@@ -84,7 +84,7 @@ redirect_from:
 
 ## Languages
 
-  Chinese (Mandarin), English, German (A1)
+  English, Chinese (Mandarin), German (A1)
 
 ## Academic Service
 
