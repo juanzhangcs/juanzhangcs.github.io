@@ -10,6 +10,7 @@ redirect_from:
 ## 2023
 
 <!--* (09/2023) A paper entitled "DS-UKF-based Positioning Method for Intelligent Connected Vehicles in Urban Intersection Scenarios" has been accept by IEEE Transactions on Intelligent Transportation Systems.-->
+* (10/2023) Been invited as a reviewer for Journals -- Neurocomputing, Journal of Intelligent & Fuzzy Systems.
 * (09/2023) Been invited as a reviewer for Journals -- Neurocomputing, Information Sciences, and Transactions on Mobile Computing.
 * (06/2023) Been invited as a reviewer for Journals -- Future Generation Computer Systems, and the Journal Neurocomputing.
 * (06/2023) Co-author work entitled "Advancing Maritime Search and Rescue with Object Detection and Digital Twin Condition Monitoring" is presented in [World Maritime Rescue Congress (WMRC 2023)](https://wmrc2023.com/), Rotterdam , Netherlands.
