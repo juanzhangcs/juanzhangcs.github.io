@@ -84,7 +84,7 @@ author:
   avatar           : "exm.png"
   bio              : "Postdoc Fellow"
   location         : "Germany"
-  employer         : "Helmut Schmidt University/University of the Bundeswehr Hamburg (HSU/UniBw Hamburg)"
+  employer         : #"Helmut Schmidt University/University of the Bundeswehr Hamburg (HSU/UniBw Hamburg)"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Unl9W2IAAAAJ&hl=en"
   email            : "juazhang@outlook.com"
