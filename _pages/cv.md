@@ -15,7 +15,10 @@ redirect_from:
 
 ## Research & Project Experience
 
-* PhD researcher
+* Sep. 2022 -- Nov. 2023 Research Associate
+  * SmartShip: Digital Twins for Intelligent Ships and Ship Fleets
+
+* Sep. 2017 -- Mar. 2022 PhD researcher
   * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK
   * Topic: Offloading decision making strategies and applications in mobile edge computing.
 
@@ -23,7 +26,7 @@ redirect_from:
   * University of Otago, New Zealand
   * Topic: QoE-aware and energy-efficiency in mobile multimedia transmission.-->
 
-* 2014 -- 2015: PhD student & Research Assistant
+* Sep. 2014 -- Aug. 2015: PhD student & Research Assistant
   * Beihang University, Beijing, China
   * Topic: Big data and Reliability in Traffic Networks.
 
