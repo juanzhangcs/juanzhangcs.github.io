@@ -16,7 +16,7 @@ redirect_from:
 ## Research & Project Experience
 
 * Sep. 2022 -- Nov. 2023 Research Associate
-  * High Performance Computing (HSU/UniBwH)
+  * High Performance Computing at HSU/UniBwH
   * SmartShip: Digital Twins for Intelligent Ships and Ship Fleets
 
 * Sep. 2017 -- Mar. 2022 PhD researcher
