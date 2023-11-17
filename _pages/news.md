@@ -10,8 +10,8 @@ redirect_from:
 ## 2023
 
 <!--* (11/2023) A paper is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS).-->
-* (10/2023) A paper is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS).
-* Will start a new position at the Northumbria University at Newcastle, UK on 1st December, 2023. 
+* (11/2023) A paper on is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS).
+<!--** Will start a new position at the Northumbria University at Newcastle, UK on 1st December, 2023. -->
 * (10/2023) Been invited as a reviewer for Journals -- Neurocomputing, Journal of Intelligent & Fuzzy Systems.
 * (09/2023) Been invited as a reviewer for Journals -- Neurocomputing, Information Sciences, and Transactions on Mobile Computing.
 * (06/2023) Been invited as a reviewer for Journals -- Future Generation Computer Systems, and the Journal Neurocomputing.
