@@ -15,6 +15,9 @@ redirect_from:
 
 ## Research & Project Experience
 
+* Dec. 2023 -- Now   Lecturer
+  * Department of Computer and Information Sciences
+
 * Sep. 2022 -- Nov. 2023 Research Associate
   * High Performance Computing at HSU/UniBwH
   * SmartShip: Digital Twins for Intelligent Ships and Ship Fleets
