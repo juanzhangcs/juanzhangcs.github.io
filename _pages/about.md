@@ -30,9 +30,9 @@ I am also enthusiastic to teach and work with highly motivated students, and ver
 # Contact
 
 Dr. Juan Zhang <br />
-Computer and Information Sciences
-Northumbria University Newcastle
-E-mail: juan.zhang AT northumbria.ac.uk
+Computer and Information Sciences<br />
+Northumbria University Newcastle<br />
+E-mail: juan.zhang AT northumbria.ac.uk<br />
 <!--Room 011, H11, Holstenhofweg 85, 22043 Hamburg <br />
 High Performance Computing<br />
 Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg (HSU/UniBwH) <br />
