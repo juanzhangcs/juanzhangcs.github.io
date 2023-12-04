@@ -15,7 +15,7 @@ redirect_from:
 
 ## Research & Project Experience
 
-* Dec. 2023 -- Now   Lecturer
+* Dec. 2023 -- Now   Lecturer at Northumbria University
   * Department of Computer and Information Sciences
 
 * Sep. 2022 -- Nov. 2023 Research Associate
