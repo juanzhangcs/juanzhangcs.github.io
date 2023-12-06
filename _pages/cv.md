@@ -15,14 +15,14 @@ redirect_from:
 
 ## Research & Project Experience
 
-* Dec. 2023 -- Now   Lecturer at Northumbria University
+* Dec. 2023 -- Now,   Lecturer at Northumbria University
   * Department of Computer and Information Sciences
 
-* Sep. 2022 -- Nov. 2023 Research Associate
+* Sep. 2022 -- Nov. 2023, Research Associate
   * High Performance Computing at HSU/UniBwH
   * SmartShip: Digital Twins for Intelligent Ships and Ship Fleets
 
-* Sep. 2017 -- Mar. 2022 PhD researcher
+* Sep. 2017 -- Mar. 2022, PhD researcher
   * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK
   * Topic: Offloading decision making strategies and applications in mobile edge computing.
 
@@ -30,19 +30,19 @@ redirect_from:
   * University of Otago, New Zealand
   * Topic: QoE-aware and energy-efficiency in mobile multimedia transmission.-->
 
-* Sep. 2014 -- Aug. 2015: PhD student & Research Assistant
+* Sep. 2014 -- Aug. 2015, PhD student & Research Assistant
   * Beihang University, Beijing, China
   * Topic: Big data and Reliability in Traffic Networks.
 
-* Mar. 2014 -- Sep. 2014: Network Architecture Engineer Internship
+* Mar. 2014 -- Sep. 2014, Network Architecture Engineer Internship
   * SINA Company, Beijing, China
   * Topic: Designed and developed an ontology-based intelligent system to automatically warn faults of servers.
  
-* Sep. 2013 -- Mar. 2014: Research Assistant
+* Sep. 2013 -- Mar. 2014, Research Assistant
   * Department of Automation, Tsinghua University, Beijing, China
   * Topic: Laser cladding-melting-sintering L-SS platform software system.
 
-* Jul. 2011 -- Jul. 2013: Research Assistant
+* Jul. 2011 -- Jul. 2013, Research Assistant
   * Beihang University, Beijing, China
   * Topic: Reliability and safety analysis with FMEA
     * Project: Development of ontology knowledge platform for failure modes identification and verification;
