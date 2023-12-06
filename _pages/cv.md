@@ -93,6 +93,10 @@ redirect_from:
 
   English, Chinese (Mandarin), German (A1)
 
+## Memberships
+  IEEE Membership <br />
+  IEEE Communications Society Membership <br />
+
 ## Academic Service
 
 Reviewer for
