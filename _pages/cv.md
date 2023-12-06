@@ -95,7 +95,7 @@ redirect_from:
 
 ## Memberships
   IEEE Membership <br />
-  IEEE Communications Society Membership <br />
+  IEEE Communications Society (ComSoc) Membership <br />
 
 ## Academic Service
 
