@@ -24,7 +24,7 @@ redirect_from:
 
 * Sep. 2017 -- Mar. 2022, PhD researcher
   * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK
-  * Topic: Offloading decision making strategies and applications in mobile edge computing.
+  * Topic: Offloading decision making strategies and applications in mobile edge computing
 
 <!--* 2015 -- 2017: Research Assistant
   * University of Otago, New Zealand
@@ -32,15 +32,15 @@ redirect_from:
 
 * Sep. 2014 -- Aug. 2015, PhD student & Research Assistant
   * Beihang University, Beijing, China
-  * Topic: Big data and Reliability in Traffic Networks.
+  * Topic: Big data and Reliability in Traffic Networks
 
 * Mar. 2014 -- Sep. 2014, Network Architecture Engineer Internship
   * SINA Company, Beijing, China
-  * Topic: Designed and developed an ontology-based intelligent system to automatically warn faults of servers.
+  * Topic: Designed and developed an ontology-based intelligent system to automatically warn faults of servers
  
 * Sep. 2013 -- Mar. 2014, Research Assistant
   * Department of Automation, Tsinghua University, Beijing, China
-  * Topic: Laser cladding-melting-sintering L-SS platform software system.
+  * Topic: Laser cladding-melting-sintering L-SS platform software system
 
 * Jul. 2011 -- Jul. 2013, Research Assistant
   * Beihang University, Beijing, China
