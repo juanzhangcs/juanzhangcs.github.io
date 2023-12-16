@@ -9,6 +9,7 @@ redirect_from:
 
 ## 2023
 
+* (12/2023) A paper on "Offloading in Vehicular Edge Computing" has been accept by IEEE Transactions on Intelligent Transportation Systems (T-ITS).
 * (12/2023) Start a new position as a Lecturer at Northumbria University, U.K.
 * (11/2023) Been invited as a reviewer for IEEE International Conference on Communications (ICC) papers.
 <!--* (11/2023) A paper is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS).-->
