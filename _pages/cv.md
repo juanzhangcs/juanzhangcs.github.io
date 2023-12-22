@@ -49,9 +49,9 @@ redirect_from:
     * Project: Safety analysis of aircraft embedded software systems based on multiple synergistic models;
     * Project: Software FMEA development for embedded software systems.
 
-<!--* Jul. 2011 -- Jan. 2013: Project Member
+* Jul. 2011 -- Jan. 2013: Project Member
   * AVIC Aerospace Power Control System Research Institute, Wuxi, China
-  * Topic: Software FMEA for the engine control system of a specific aircraft.-->
+  * Topic: Software FMEA for the engine control system of a specific (XXX) aircraft.
   
 <!--Skills
 ======
