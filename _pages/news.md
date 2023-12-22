@@ -14,6 +14,7 @@ redirect_from:
 * (11/2023) Been invited as a reviewer for IEEE International Conference on Communications (ICC) papers.
 <!--* (11/2023) A paper is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS).-->
 * (11/2023) A co-author paper on “Intelligent Connected Vehicles in Urban Intersection Scenarios” is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS).
+* (11/2023) Agreed to serve as TPC member, ICC'24.
 * (10/2023) Been invited as a reviewer for Journals -- Neurocomputing, Journal of Intelligent & Fuzzy Systems.
 * (09/2023) Been invited as a reviewer for Journals -- Neurocomputing, Information Sciences, and Transactions on Mobile Computing.
 * (06/2023) Been invited as a reviewer for Journals -- Future Generation Computer Systems, and the Journal Neurocomputing.
