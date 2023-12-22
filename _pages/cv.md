@@ -112,7 +112,7 @@ Reviewer for
 * Future Generation Computer Systems.
 * Journal of Parallel and Distributed Computing.
 * Transactions on Cloud Computing.
-* ICC.
+* IEEE International Conference on Communications (ICC).
 * etc.
 
 Program Committee:
