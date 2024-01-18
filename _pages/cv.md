@@ -9,9 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+## Qualification
 
-* Ph.D in Computer Science, University of Exeter, UK
+* PhD in Computer Science
+* M.Sc. in Control Science and Engineering
+* B.Eng. in Mechanical Engineering
+
+
+<!--## Education
+
+* Ph.D in Computer Science, University of Exeter, UK-->
 
 <!--## Research & Project Experience
 
