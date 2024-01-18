@@ -13,7 +13,7 @@ redirect_from:
 
 * Ph.D in Computer Science, University of Exeter, UK
 
-## Research & Project Experience
+<!--## Research & Project Experience
 
 * Dec. 2023 -- Now,   Lecturer at Northumbria University
   * Department of Computer and Information Sciences
@@ -24,12 +24,12 @@ redirect_from:
 
 * Sep. 2017 -- Mar. 2022, PhD researcher
   * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK
-  * Topic: Offloading decision making strategies and applications in mobile edge computing
+  * Topic: Offloading decision making strategies and applications in mobile edge computing-->
 
 <!--* 2015 -- 2017: Research Assistant
   * University of Otago, New Zealand
   * Topic: QoE-aware and energy-efficiency in mobile multimedia transmission.-->
-
+<!-->
 * Sep. 2014 -- Aug. 2015, PhD student & Research Assistant
   * Beihang University, Beijing, China
   * Topic: Big data and Reliability in Traffic Networks
@@ -52,7 +52,7 @@ redirect_from:
 * Jul. 2011 -- Jan. 2013: Project Member
   * AVIC Aerospace Power Control System Research Institute, Wuxi, China
   * Topic: Software FMEA for the engine control system of a specific (XXX) aircraft.
-  
+  -->
 <!--Skills
 ======
 * Skill 1
