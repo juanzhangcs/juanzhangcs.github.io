@@ -29,30 +29,29 @@ redirect_from:
 <!--* 2015 -- 2017: Research Assistant
   * University of Otago, New Zealand
   * Topic: QoE-aware and energy-efficiency in mobile multimedia transmission.-->
-<!-->
+<!--
 * Sep. 2014 -- Aug. 2015, PhD student & Research Assistant
   * Beihang University, Beijing, China
-  * Topic: Big data and Reliability in Traffic Networks
+  * Topic: Big data and Reliability in Traffic Networks-->
 
-* Mar. 2014 -- Sep. 2014, Network Architecture Engineer Internship
+<!--* Mar. 2014 -- Sep. 2014, Network Architecture Engineer Internship
   * SINA Company, Beijing, China
-  * Topic: Designed and developed an ontology-based intelligent system to automatically warn faults of servers
+  * Topic: Designed and developed an ontology-based intelligent system to automatically warn faults of servers-->
  
-* Sep. 2013 -- Mar. 2014, Research Assistant
+<!--* Sep. 2013 -- Mar. 2014, Research Assistant
   * Department of Automation, Tsinghua University, Beijing, China
-  * Topic: Laser cladding-melting-sintering L-SS platform software system
+  * Topic: Laser cladding-melting-sintering L-SS platform software system-->
 
-* Jul. 2011 -- Jul. 2013, Research Assistant
+<!--* Jul. 2011 -- Jul. 2013, Research Assistant
   * Beihang University, Beijing, China
   * Topic: Reliability and safety analysis with FMEA
     * Project: Development of ontology knowledge platform for failure modes identification and verification;
     * Project: Safety analysis of aircraft embedded software systems based on multiple synergistic models;
-    * Project: Software FMEA development for embedded software systems.
+    * Project: Software FMEA development for embedded software systems.-->
 
-* Jul. 2011 -- Jan. 2013: Project Member
+<!--* Jul. 2011 -- Jan. 2013: Project Member
   * AVIC Aerospace Power Control System Research Institute, Wuxi, China
-  * Topic: Software FMEA for the engine control system of a specific (XXX) aircraft.
-  -->
+  * Topic: Software FMEA for the engine control system of a specific (XXX) aircraft.-->
 <!--Skills
 ======
 * Skill 1
