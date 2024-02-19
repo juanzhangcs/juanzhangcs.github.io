@@ -9,7 +9,7 @@ redirect_from:
 
 ## 2024
 
-
+* (02/2024) A paper entitled "PHIR: A Platform Solution of Data-Driven Health Monitoring for Industrial Robots" is accepted by Machine Intelligent Information and Efficient System, Electronics.
 
 ## 2023
 
