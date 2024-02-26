@@ -33,7 +33,7 @@ redirect_from:
 * (09/2022) Been invited as a reviewer of Parallel and Distributed Computing.
 * (09/2022) Been invited as a reviewer of Journal of Adaptive Control and Signal Processing.  
 * (09/2022) Been invited as a reviewer of Journal Mathematics.
-* (09/2022) Been involved in the project of SmartShip, funded by the *[Center for Digitization and Technology Research of the German Armed Forces](https://dtecbw.de/home)* <i>(dtec)</i>.
+* (09/2022) Been involved in the project of SmartShip, funded by the *[Center for Digitization and Technology Research of the German Armed Forces](https://dtecbw.de/home)* <i>(dtec.bw)</i>.
 * (09/2022) Start a new position as a postdoc in High Performance Computing, Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg (HSU/UniBwH) -- University of the Federal Armed Forces Hamburg, Germany
 * (07/2022) Been invited as a reviewer of Journal Expert Systems With Applications.
 * (07/2022) Been invited as a reviewer of Transactions on Sustainable Computing.
