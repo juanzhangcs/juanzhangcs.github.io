@@ -9,7 +9,7 @@ redirect_from:
 
 ## 2024
 
-* (02/2024) A paper entitled "PHIR: A Platform Solution of Data-Driven Health Monitoring for Industrial Robots" is accepted by Machine Intelligent Information and Efficient System, Electronics.
+* (02/2024) A coauthor paper entitled "PHIR: A Platform Solution of Data-Driven Health Monitoring for Industrial Robots" is accepted by Machine Intelligent Information and Efficient System, Electronics.
 
 ## 2023
 
@@ -17,7 +17,7 @@ redirect_from:
 <!--* (12/2023) Start a new position as a Lecturer at Northumbria University, U.K.-->
 * (11/2023) Been invited as a reviewer for IEEE International Conference on Communications (ICC) papers.
 <!--* (11/2023) A paper is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS).-->
-* (11/2023) A co-author paper on “Intelligent Connected Vehicles in Urban Intersection Scenarios” is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS) [DOI: 10.1109/TITS.2023.3336770](https://ieeexplore.ieee.org/document/10365328).
+* (11/2023) A coauthor paper on “Intelligent Connected Vehicles in Urban Intersection Scenarios” is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS) [DOI: 10.1109/TITS.2023.3336770](https://ieeexplore.ieee.org/document/10365328).
 * (11/2023) Agreed to serve as TPC member, ICC'24.
 * (10/2023) Been invited as a reviewer for Journals -- Neurocomputing, Journal of Intelligent & Fuzzy Systems.
 * (09/2023) Been invited as a reviewer for Journals -- Neurocomputing, Information Sciences, and Transactions on Mobile Computing.
