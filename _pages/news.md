@@ -9,6 +9,7 @@ redirect_from:
 
 ## 2024
 
+* (02/2024) A coauthor paper entitled "Eco-driving-based mixed vehicular platoon control model for successive signalized intersections" is accepted by Physica A: Statistical Mechanics and its Applications.   
 * (02/2024) A coauthor paper entitled "PHIR: A Platform Solution of Data-Driven Health Monitoring for Industrial Robots" is accepted by Machine Intelligent Information and Efficient System, Electronics.
 
 ## 2023
