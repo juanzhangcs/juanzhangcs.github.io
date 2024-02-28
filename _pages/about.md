@@ -11,8 +11,7 @@ redirect_from:
 <!--Welcome! I received my Ph.D degree from [Department of Computer Science](https://computerscience.exeter.ac.uk/), the [University of Exeter](https://www.exeter.ac.uk/), UK. Prior to that, I worked and studied at the [University of Otago](https://www.otago.ac.nz/), New Zealand, and [Beihang University](https://ev.buaa.edu.cn/), Beijing, China. I received my Master Degree in Control Science and Engineering, and Bachelor Degree in Mechanical Design, Manufacture and Its Automation.<br />
 <br />
 -->
-Welcome! I am a Lecturer in Computer and Information Sciences at Northumbria University, UK. Before that, I was a Postdoctoral researcher in the Chair of High Performance Computing, Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg (HSU/UniBwH), Germany, working on the "Smartship" Project, funded by dtec.bw.<br /> 
-
+Welcome! I am a Lecturer in Computer and Information Sciences at Northumbria University, UK. <!--Before that, I was a Postdoctoral researcher in the Chair of High Performance Computing, Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg (HSU/UniBwH), Germany, working on the "Smartship" Project, funded by dtec.bw.<br /> 
 My Ph.D degree was granted from [Department of Computer Science](https://computerscience.exeter.ac.uk/), the [University of Exeter](https://www.exeter.ac.uk/), UK. Prior to that, I graduated from the [Beihang University](https://buaa.edu.cn/), Beijing, China. I received my Master Degree in Control Science and Engineering, and Bachelor Degree in Mechanical Engineering.<br />
 <br />
 
