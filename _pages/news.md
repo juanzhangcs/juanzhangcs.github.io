@@ -9,6 +9,7 @@ redirect_from:
 
 ## 2024
 
+* (03/2024) Agreed to serve as TPC member of IWCMC 2024 Vehicular Comm (IWCMC 2024 Vehicular Symposium).
 * (02/2024) Our work entitled "Eco-driving-based mixed vehicular platoon control model for successive signalized intersections" is accepted by Physica A: Statistical Mechanics and its Applications.
 * (02/2024) Our work entitled "PHIR: A Platform Solution of Data-Driven Health Monitoring for Industrial Robots" is accepted by Machine Intelligent Information and Efficient System, Electronics [DOI: 10.3390/electronics13050834](https://www.mdpi.com/2079-9292/13/5/834).
 
