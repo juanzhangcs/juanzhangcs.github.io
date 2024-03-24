@@ -9,6 +9,7 @@ redirect_from:
 
 ## 2024
 
+* (03/2024) Agreed to serve as session chair of IEEE ICC'24, June.
 * (03/2024) Agreed to serve as TPC member of IWCMC 2024 Vehicular Comm (IWCMC 2024 Vehicular Symposium).
 * (02/2024) Our work entitled "Eco-driving-based mixed vehicular platoon control model for successive signalized intersections" is accepted by Physica A: Statistical Mechanics and its Applications [DOI: 10.1016/j.physa.2024.129641](https://doi.org/10.1016/j.physa.2024.129641).
 * (02/2024) Been invited as a reviewer for Journals Information Sciences, Knowledge-Based Systems, Computer Communications, etc.
