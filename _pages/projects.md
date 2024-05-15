@@ -1,6 +1,5 @@
 ---
 permalink: /projects/
-# title: "Project Experience"
 author_profile: true
 redirect_from: 
   - /md/
