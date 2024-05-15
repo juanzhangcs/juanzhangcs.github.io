@@ -1,13 +1,13 @@
 ---
 permalink: /projects/
-#  title: "Project Experience"
+title: "Project Experience"
 author_profile: true
 redirect_from: 
   - /md/
   - /projects.html
 ---
 
-### Research & Project Experience
+## Research & Project Experience
 
 * Sep. 2022 -- Nov. 2023, Postdoc Researcher
   * High Performance Computing at HSU/UniBwH, Hamburg, Germany
