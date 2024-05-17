@@ -10,16 +10,16 @@ redirect_from:
 ## Research & Project Experience
   
 * SmartShip: Digital Twins for Intelligent Ships and Ship Fleets
-  * High Performance Computing at HSU/UniBwH, Hamburg, Germany, (Sep. 2022 -- Nov. 2023)
+  * High Performance Computing at HSU/UniBwH, Hamburg, Germany. Sep. 2022 -- Nov. 2023
   
 * Offloading decision making strategies and applications in mobile edge computing
-  * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK, (Sep. 2017 -- Mar. 2022)
+  * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK. Sep. 2017 -- Mar. 2022
   
 * QoE-aware and energy-efficiency in mobile multimedia transmission.
-  * University of Otago, New Zealand (2015 -- 2017)
+  * University of Otago, New Zealand. 2015 -- 2017
 
 * Big data and Reliability in Traffic Networks
-  * Beihang University, Beijing, China (Sep. 2014 -- Aug. 2015,)
+  * Beihang University, Beijing, China.   Sep. 2014 -- Aug. 2015
 
 * Designed and developed an ontology-based intelligent system to automatically warn faults of servers
   * SINA Company, Beijing, China
@@ -27,19 +27,18 @@ redirect_from:
 
 * Laser cladding-melting-sintering L-SS platform software system
   * Department of Automation, Tsinghua University, Beijing, China
-  * Research Assistant (Sep. 2013 -- Mar. 2014)
+  * Research Assistant. Sep. 2013 -- Mar. 2014
 
 * Reliability and safety analysis with FMEA
-  * Project: Development of ontology knowledge platform for failure modes identification and verification;
-  * Project: Safety analysis of aircraft embedded software systems based on multiple synergistic models;
-  * Project: Software FMEA development for embedded software systems.
-    * Beihang University, Beijing, China
-    * Research Assistant (Jul. 2011 -- Jul. 2013)
+* Project: Development of ontology knowledge platform for failure modes identification and verification;
+* Project: Safety analysis of aircraft embedded software systems based on multiple synergistic models;
+* Project: Software FMEA development for embedded software systems.
+  * Beihang University, Beijing, China. Research Assistant, Jul. 2011 -- Jul. 2013
 
 
 * Software FMEA for the engine control system of a specific (XXX) aircraft.
   * AVIC Aerospace Power Control System Research Institute, Wuxi, China
-    * Project Member (Jul. 2011 -- Jan. 2013)
+    * Project Member, Jul. 2011 -- Jan. 2013
 
 <!-- ## 2024
 
