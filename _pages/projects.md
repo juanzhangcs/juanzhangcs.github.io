@@ -19,11 +19,11 @@ redirect_from:
   * University of Otago, New Zealand. 2015 -- 2017
 
 * Big data and Reliability in Traffic Networks
-  * Beihang University, Beijing, China.   Sep. 2014 -- Aug. 2015
+  * Beihang University, Beijing, China. Sep. 2014 -- Aug. 2015
 
 * Designed and developed an ontology-based intelligent system to automatically warn faults of servers
   * SINA Company, Beijing, China
-    * Network Architecture Engineer Internship (Mar. 2014 -- Sep. 2014)
+  * Network Architecture Engineer Internship. Mar. 2014 -- Sep. 2014
 
 * Laser cladding-melting-sintering L-SS platform software system
   * Department of Automation, Tsinghua University, Beijing, China
@@ -38,7 +38,7 @@ redirect_from:
 
 * Software FMEA for the engine control system of a specific (XXX) aircraft.
   * AVIC Aerospace Power Control System Research Institute, Wuxi, China
-    * Project Member, Jul. 2011 -- Jan. 2013
+  * Project Member, Jul. 2011 -- Jan. 2013
 
 <!-- ## 2024
 
