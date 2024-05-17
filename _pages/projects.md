@@ -17,7 +17,7 @@ redirect_from:
   * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK
   * Offloading decision making strategies and applications in mobile edge computing.
 
-* 2015 -- 2017: Research Assistant
+* 2015 -- 2017, Research Assistant
   * University of Otago, New Zealand
   * QoE-aware and energy-efficiency in mobile multimedia transmission.
 
@@ -40,7 +40,7 @@ redirect_from:
     * Project: Safety analysis of aircraft embedded software systems based on multiple synergistic models;
     * Project: Software FMEA development for embedded software systems.
 
-* Jul. 2011 -- Jan. 2013: Project Member
+* Jul. 2011 -- Jan. 2013, Project Member
   * AVIC Aerospace Power Control System Research Institute, Wuxi, China
   * Software FMEA for the engine control system of a specific (XXX) aircraft.
 
