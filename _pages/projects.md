@@ -30,9 +30,9 @@ redirect_from:
   * Research Assistant. Sep. 2013 -- Mar. 2014
 
 * Reliability and safety analysis with FMEA
-* Project: Development of ontology knowledge platform for failure modes identification and verification;
-* Project: Safety analysis of aircraft embedded software systems based on multiple synergistic models;
-* Project: Software FMEA development for embedded software systems.
+* Development of ontology knowledge platform for failure modes identification and verification;
+* Safety analysis of aircraft embedded software systems based on multiple synergistic models;
+* Software FMEA development for embedded software systems.
   * Beihang University, Beijing, China. Research Assistant, Jul. 2011 -- Jul. 2013
 
 
