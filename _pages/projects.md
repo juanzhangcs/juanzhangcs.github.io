@@ -15,7 +15,7 @@ redirect_from:
 * Offloading decision making strategies and applications in mobile edge computing
   * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK. Sep. 2017 -- Mar. 2022
   
-* QoE-aware and energy-efficiency in mobile multimedia transmission.
+* QoE-aware and energy-efficiency in mobile multimedia transmission
   * University of Otago, New Zealand. 2015 -- 2017
 
 * Big data and Reliability in Traffic Networks
@@ -30,13 +30,13 @@ redirect_from:
   * Research Assistant. Sep. 2013 -- Mar. 2014
 
 * Reliability and safety analysis with FMEA
-* Development of ontology knowledge platform for failure modes identification and verification;
-* Safety analysis of aircraft embedded software systems based on multiple synergistic models;
-* Software FMEA development for embedded software systems.
+* Development of ontology knowledge platform for failure modes identification and verification
+* Safety analysis of aircraft embedded software systems based on multiple synergistic models
+* Software FMEA development for embedded software systems
   * Beihang University, Beijing, China. Research Assistant, Jul. 2011 -- Jul. 2013
 
 
-* Software FMEA for the engine control system of a specific (XXX) aircraft.
+* Software FMEA for the engine control system of a specific (XXX) aircraft
   * AVIC Aerospace Power Control System Research Institute, Wuxi, China
   * Project Member, Jul. 2011 -- Jan. 2013
 
