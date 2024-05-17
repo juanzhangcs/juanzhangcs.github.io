@@ -8,42 +8,38 @@ redirect_from:
 ---
 
 ## Research & Project Experience
+  
+* SmartShip: Digital Twins for Intelligent Ships and Ship Fleets
+  * High Performance Computing at HSU/UniBwH, Hamburg, Germany, (Sep. 2022 -- Nov. 2023)
+  
+* Offloading decision making strategies and applications in mobile edge computing
+  * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK, (Sep. 2017 -- Mar. 2022)
+  
+* QoE-aware and energy-efficiency in mobile multimedia transmission.
+  * University of Otago, New Zealand (2015 -- 2017)
 
-* Sep. 2022 -- Nov. 2023, Postdoc Researcher
-  * High Performance Computing at HSU/UniBwH, Hamburg, Germany
-  * SmartShip: Digital Twins for Intelligent Ships and Ship Fleets
+* Big data and Reliability in Traffic Networks
+  * Beihang University, Beijing, China (Sep. 2014 -- Aug. 2015,)
 
-* Sep. 2017 -- Mar. 2022, PhD researcher
-  * Smart Networks & Services (SmartNetS) Lab, University of Exeter, UK
-  * Topic: Offloading decision making strategies and applications in mobile edge computing
-
-* 2015 -- 2017: Research Assistant
-  * University of Otago, New Zealand
-  * Topic: QoE-aware and energy-efficiency in mobile multimedia transmission.
-
-* Sep. 2014 -- Aug. 2015, PhD student & Research Assistant
-  * Beihang University, Beijing, China
-  * Topic: Big data and Reliability in Traffic Networks
-
-* Mar. 2014 -- Sep. 2014, Network Architecture Engineer Internship
+* Designed and developed an ontology-based intelligent system to automatically warn faults of servers
   * SINA Company, Beijing, China
-  * Topic: Designed and developed an ontology-based intelligent system to automatically warn faults of servers
+    * Network Architecture Engineer Internship (Mar. 2014 -- Sep. 2014)
 
-* Sep. 2013 -- Mar. 2014, Research Assistant
+* Laser cladding-melting-sintering L-SS platform software system
   * Department of Automation, Tsinghua University, Beijing, China
-  * Topic: Laser cladding-melting-sintering L-SS platform software system
+  * Research Assistant (Sep. 2013 -- Mar. 2014)
 
-* Jul. 2011 -- Jul. 2013, Research Assistant
-  * Beihang University, Beijing, China
-  * Topic: Reliability and safety analysis with FMEA
-    * Project: Development of ontology knowledge platform for failure modes identification and verification;
-    * Project: Safety analysis of aircraft embedded software systems based on multiple synergistic models;
-    * Project: Software FMEA development for embedded software systems.
+* Reliability and safety analysis with FMEA
+  * Project: Development of ontology knowledge platform for failure modes identification and verification;
+  * Project: Safety analysis of aircraft embedded software systems based on multiple synergistic models;
+  * Project: Software FMEA development for embedded software systems.
+    * Beihang University, Beijing, China
+    * Research Assistant (Jul. 2011 -- Jul. 2013)
 
-* Jul. 2011 -- Jan. 2013: Project Member
+
+* Software FMEA for the engine control system of a specific (XXX) aircraft.
   * AVIC Aerospace Power Control System Research Institute, Wuxi, China
-  * Topic: Software FMEA for the engine control system of a specific (XXX) aircraft.
-
+    * Project Member (Jul. 2011 -- Jan. 2013)
 
 <!-- ## 2024
 
