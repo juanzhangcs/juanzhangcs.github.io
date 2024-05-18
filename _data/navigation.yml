@@ -13,7 +13,10 @@ main:
     # url: /year-archive/
 
   - title: "Project Experience"
-    url: /projects/ 
+    url: /projects/
+
+  - title: "Supervision"
+    url: /supervision/  
   
   - title: "Talks"
     url: /talks/  
