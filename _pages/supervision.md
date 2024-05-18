@@ -15,7 +15,7 @@ redirect_from:
 
 * 2024, Holly Tippins, Title: An experiment into human ability to detect fake images that considers: Does adding contextual information to an image make it more or less likely to be identified as a fake.
 
-## BS Project
+## B.Sc. Project
 
 * 2024, Saboor Khan, Title: Using AI to catch counterfeiting.
   * Viva, 20 May, 2024
