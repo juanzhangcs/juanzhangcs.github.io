@@ -20,7 +20,7 @@ redirect_from:
 * 2024, Saboor Khan, Title: Using AI to catch counterfeiting.
   * Viva, 20 May, 2024
 
-* 2024, Harry.Hughes, Title: User-based Continuous Authentication.
+* 2024, Harry Hughes, Title: User-based Continuous Authentication.
   * Viva, May, 2024
 
 
