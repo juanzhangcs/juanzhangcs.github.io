@@ -6,7 +6,10 @@ redirect_from:
   - /md/
   - /supervision.html
 ---
+## Ph.D Project
 
+* 2023/2024, Jeffery Redondo Sarmiento, Co-supervise with Prof. Nauman Aslam.
+  * Topic: Communication Offloading for Automated Vehicle-Assisted Mobile Edge Computing
 
 
 ## M.Sc. Project
