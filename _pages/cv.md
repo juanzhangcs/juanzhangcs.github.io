@@ -97,7 +97,7 @@ redirect_from:
 
 ## Languages
 
-  Chinese (Mandarin), English, German (A1)
+  English (Fluent), German (A2), Mandarin Chinese (Native)
 
 ## Memberships
   IEEE Membership <br />
