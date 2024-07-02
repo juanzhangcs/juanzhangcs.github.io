@@ -18,8 +18,8 @@ main:
   - title: "Supervision"
     url: /supervision/  
   
-  - title: "Talks"
-    url: /talks/  
+  # - title: "Talks"
+  #   url: /talks/  
 
   - title: "CV"
     url: /cv/
