@@ -9,7 +9,7 @@ redirect_from:
 
 ## 2024
 
-* (07/2024) Visit Computer Networks Group, Georg-August-University of Göttingen, Germany, for one month.
+* (07/2024) Visit Computer Networks Group, Georg-August-University of Göttingen, Germany, for one month.<br />
    Gave a talk on edge computing (9 July 2024).
 <!--* (03/2024) Agreed to serve as a session chair of IEEE ICC'24, June.-->
 * (03/2024) A paper, submitted by my first co-supervised PhD student, has been accepted by IWCMC 2024.
