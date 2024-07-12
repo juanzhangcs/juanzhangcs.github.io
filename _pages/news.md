@@ -9,7 +9,8 @@ redirect_from:
 
 ## 2024
 
-* (07/2024) Visit Georg-August-University of Göttingen, Germany, for one month.
+* (07/2024) Gave a presentation (9 July) in the Computer Networks Group, Georg-August-University of Göttingen, Germany.
+* (07/2024) Visit Computer Networks Group, Georg-August-University of Göttingen, Germany, for one month.
 <!--* (03/2024) Agreed to serve as a session chair of IEEE ICC'24, June.-->
 * (03/2024) A paper, submitted by my first co-supervised PhD student, has been accepted by IWCMC 2024.
 * (03/2024) Agreed to serve as TPC member of [IWCMC 2024 Vehicular Comm](https://iwcmc.net/2024/index.php) (IWCMC 2024 Vehicular Symposium).
