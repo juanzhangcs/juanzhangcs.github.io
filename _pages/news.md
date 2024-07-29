@@ -14,18 +14,18 @@ redirect_from:
 * (03/2024) Agreed to serve as a session chair of IEEE ICC'24, June.
 * (03/2024) A paper, submitted by my first co-supervised PhD student, has been accepted by IWCMC 2024 [[DOI: 10.1109/IWCMC61514.2024.10592335]](https://ieeexplore.ieee.org/abstract/document/10592335).
 * (03/2024) Agreed to serve as TPC member of [IWCMC 2024 Vehicular Comm](https://iwcmc.net/2024/index.php) (IWCMC 2024 Vehicular Symposium).
-* (02/2024) Our work entitled "Eco-driving-based mixed vehicular platoon control model for successive signalized intersections" is accepted by Physica A: Statistical Mechanics and its Applications [DOI: 10.1016/j.physa.2024.129641](https://doi.org/10.1016/j.physa.2024.129641).
+* (02/2024) Our work entitled "Eco-driving-based mixed vehicular platoon control model for successive signalized intersections" is accepted by Physica A: Statistical Mechanics and its Applications [[DOI: 10.1016/j.physa.2024.129641](https://doi.org/10.1016/j.physa.2024.129641)].
 * (02/2024) Been invited as a reviewer for Journals Information Sciences, Knowledge-Based Systems, Computer Communications, etc.
-* (02/2024) Our work entitled "PHIR: A Platform Solution of Data-Driven Health Monitoring for Industrial Robots" is accepted by Machine Intelligent Information and Efficient System, Electronics [DOI: 10.3390/electronics13050834](https://www.mdpi.com/2079-9292/13/5/834).
+* (02/2024) Our work entitled "PHIR: A Platform Solution of Data-Driven Health Monitoring for Industrial Robots" is accepted by Machine Intelligent Information and Efficient System, Electronics [[DOI: 10.3390/electronics13050834](https://www.mdpi.com/2079-9292/13/5/834)].
 * (01/2024) Served as TPC member of ICC'2024.
 
 ## 2023
 
-* (12/2023) Our work on "Offloading in Vehicular Edge Computing" has been accept by IEEE Transactions on Intelligent Transportation Systems (T-ITS) [DOI: 10.1109/TITS.2023.3348074](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10401007).
+* (12/2023) Our work on "Offloading in Vehicular Edge Computing" has been accept by IEEE Transactions on Intelligent Transportation Systems (T-ITS) [[DOI: 10.1109/TITS.2023.3348074](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10401007)].
 <!--* (12/2023) Start a new position as a Lecturer at Northumbria University, U.K.-->
 * (11/2023) Been invited as a reviewer for IEEE International Conference on Communications (ICC) papers.
 <!--* (11/2023) A paper is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS).-->
-* (11/2023) A coauthor paper on “Intelligent Connected Vehicles in Urban Intersection Scenarios” is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS) [DOI: 10.1109/TITS.2023.3336770](https://ieeexplore.ieee.org/document/10365328).
+* (11/2023) A coauthor paper on “Intelligent Connected Vehicles in Urban Intersection Scenarios” is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS) [[DOI: 10.1109/TITS.2023.3336770](https://ieeexplore.ieee.org/document/10365328)].
 * (11/2023) Agreed to serve as TPC member, ICC'24.
 * (10/2023) Been invited as a reviewer for Journals -- Neurocomputing, Journal of Intelligent & Fuzzy Systems.
 * (09/2023) Been invited as a reviewer for Journals -- Neurocomputing, Information Sciences, and Transactions on Mobile Computing.
