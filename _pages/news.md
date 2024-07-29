@@ -12,7 +12,7 @@ redirect_from:
 * (07/2024) Visit Computer Networks Group, Georg-August-University of Göttingen, Germany, for one month.<br />
    Gave a talk on edge computing (9 July 2024).
 * (03/2024) Agreed to serve as a session chair of IEEE ICC'24, June.
-* (03/2024) A paper, submitted by my first co-supervised PhD student, has been accepted by IWCMC 2024.
+* (03/2024) A paper, submitted by my first co-supervised PhD student, has been accepted by IWCMC 2024 [DOI: 10.1109/IWCMC61514.2024.10592335](https://ieeexplore.ieee.org/abstract/document/10592335).
 * (03/2024) Agreed to serve as TPC member of [IWCMC 2024 Vehicular Comm](https://iwcmc.net/2024/index.php) (IWCMC 2024 Vehicular Symposium).
 * (02/2024) Our work entitled "Eco-driving-based mixed vehicular platoon control model for successive signalized intersections" is accepted by Physica A: Statistical Mechanics and its Applications [DOI: 10.1016/j.physa.2024.129641](https://doi.org/10.1016/j.physa.2024.129641).
 * (02/2024) Been invited as a reviewer for Journals Information Sciences, Knowledge-Based Systems, Computer Communications, etc.
