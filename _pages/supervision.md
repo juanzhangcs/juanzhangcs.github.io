@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Ph.D Project
 
-* 2023/2024, Jeffery Redondo Sarmiento, Co-supervised with Prof. Nauman Aslam.
+* 2023/2024, Jeffery Redondo Sarmiento, Co-supervised with [Prof. Nauman Aslam](https://www.northumbria.ac.uk/about-us/our-staff/a/nauman-aslam/).
   * Topic: Communication Offloading for Automated Vehicle-Assisted Mobile Edge Computing.
 
 ## M.Sc. Project
