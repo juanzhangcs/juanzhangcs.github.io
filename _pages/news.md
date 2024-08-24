@@ -11,7 +11,7 @@ redirect_from:
 
 * (07/2024) Visit Computer Networks Group, Georg-August-University of Göttingen, Germany, for one month.<br />
   * Gave a talk on edge computing (9 July 2024).
-* (03/2024) Involved in the project COVER - Cooperative and intelligent unmanned aerial vehicles for emergency response applications.
+* (03/2024) Involved in an EU project COVER - Cooperative and intelligent unmanned aerial vehicles for emergency response applications.
 * (03/2024) Agreed to serve as a session chair of IEEE ICC'24, June.
 * (03/2024) A paper, submitted by my first co-supervised PhD student, has been accepted by IWCMC 2024 [[DOI: 10.1109/IWCMC61514.2024.10592335]](https://ieeexplore.ieee.org/abstract/document/10592335).
 * (03/2024) Agreed to serve as TPC member of [IWCMC 2024 Vehicular Comm](https://iwcmc.net/2024/index.php) (IWCMC 2024 Vehicular Symposium).
