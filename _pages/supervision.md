@@ -13,18 +13,18 @@ redirect_from:
 
 ## M.Sc. Project
 
-* 2024, KF7029, Sai Dheeraj Nookala, Title: Balancing latency and energy consumption in edge computing for autonomous vehicles. 
+* 2024, Term 3, KF7029 MSc Computer Science and Digital Technologies Project, Sai Dheeraj Nookala, Title: Balancing latency and energy consumption in edge computing for autonomous vehicles. 
 
-* 2023/2024, Mohsen Mohammadghorbani, Title: Exploring reinforcement Learning techniques in Java Gaming: Designing AI-Driven Game Agents for Simulating Human Behaviour.
+* 2023/2024, PE7046 Research Project, Mohsen Mohammadghorbani, Title: Exploring reinforcement Learning techniques in Java Gaming: Designing AI-Driven Game Agents for Simulating Human Behaviour.
 
-* 2023/2024, Holly Tippins, Title: An experiment into human ability to detect fake images that considers: Does adding contextual information to an image make it more or less likely to be identified as a fake.
+* 2023/2024, PE7046 Research Project, Holly Tippins, Title: An experiment into human ability to detect fake images that considers: Does adding contextual information to an image make it more or less likely to be identified as a fake.
 
 ## B.Sc. Project
 
-* 2023/2024, Saboor Khan, Title: Using AI to catch counterfeiting.
+* 2023/2024, KV6003 Individual Computing Project, Saboor Khan, Title: Using AI to catch counterfeiting.
   * Viva, 20 May, 2024
 
-* 2023/2024, Harry Hughes, Title: User-based Continuous Authentication.
+* 2023/2024, KV6003 Individual Computing Project, Harry Hughes, Title: User-based Continuous Authentication.
   * Viva, May, 2024
 
 
