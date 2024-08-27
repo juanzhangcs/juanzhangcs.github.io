@@ -20,11 +20,11 @@ redirect_from:
 
 * 2023/2024, PE7046, Research Project
   * **Mohsen Mohammadghorbani**, Title: Exploring reinforcement Learning techniques in Java Gaming: Designing AI-Driven Game Agents for Simulating Human Behaviour.
-  * Viva, July， 2024
+  * Viva, July, 2024
 
 * 2023/2024, PE7046, Research Project
   * **Holly Tippins**, Title: An experiment into human ability to detect fake images that considers: Does adding contextual information to an image make it more or less likely to be identified as a fake.
-  * Viva, July， 2024
+  * Viva, July, 2024
 
 ## B.Sc. Project
 
