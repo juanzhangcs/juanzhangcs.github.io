@@ -8,28 +8,32 @@ redirect_from:
 ---
 ## Ph.D Project
 
-* 2023/2024, Jeffery Redondo Sarmiento, Co-supervised with [Prof. Nauman Aslam](https://www.northumbria.ac.uk/about-us/our-staff/a/nauman-aslam/).
+* 2023/2024, *Jeffery Redondo Sarmiento*, Co-supervised with [Prof. Nauman Aslam](https://www.northumbria.ac.uk/about-us/our-staff/a/nauman-aslam/).
   * Topic: Communication Offloading for Automated Vehicle-Assisted Mobile Edge Computing.
 
 ## M.Sc. Project
 
-* 2024, Term 3, KF7029 MSc Computer Science and Digital Technologies Project 
-  * **Sai Dheeraj Nookala**, Title: Balancing latency and energy consumption in edge computing for autonomous vehicles. 
+* 2024, Term 3, KF7029 MSc Computer Science and Digital Technologies Project
+  * *Sai Dheeraj Nookala*, Title: Balancing latency and energy consumption in edge computing for autonomous vehicles.
+  * Viva, August, 2024
 
-* 2023/2024, PE7046 Research Project, 
-  * **Mohsen Mohammadghorbani**, Title: Exploring reinforcement Learning techniques in Java Gaming: Designing AI-Driven Game Agents for Simulating Human Behaviour.
 
-* 2023/2024, PE7046 Research Project, 
-  * **Holly Tippins**, Title: An experiment into human ability to detect fake images that considers: Does adding contextual information to an image make it more or less likely to be identified as a fake.
+* 2023/2024, PE7046, Research Project
+  * *Mohsen Mohammadghorbani*, Title: Exploring reinforcement Learning techniques in Java Gaming: Designing AI-Driven Game Agents for Simulating Human Behaviour.
+  * Viva, July， 2024
+
+* 2023/2024, PE7046, Research Project
+  * *Holly Tippins*, Title: An experiment into human ability to detect fake images that considers: Does adding contextual information to an image make it more or less likely to be identified as a fake.
+  * Viva, July， 2024
 
 ## B.Sc. Project
 
-* 2023/2024, KV6003 Individual Computing Project
-  * **Saboor Khan**, Title: Using AI to catch counterfeiting.
+* 2023/2024, KV6003, Individual Computing Project
+  * *Saboor Khan*, Title: Using AI to catch counterfeiting.
   * Viva, 20 May, 2024
 
-* 2023/2024, KV6003 Individual Computing Project
-  * **Harry Hughes**, Title: User-based Continuous Authentication.
+* 2023/2024, KV6003, Individual Computing Project
+  * *Harry Hughes*, Title: User-based Continuous Authentication.
   * Viva, May, 2024
 
 
