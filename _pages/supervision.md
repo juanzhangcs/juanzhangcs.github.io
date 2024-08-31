@@ -15,7 +15,7 @@ redirect_from:
 
 * 2024, Term 3, KF7029 MSc Computer Science and Digital Technologies Project
   * **Sai Dheeraj Nookala**, Title: Balancing latency and energy consumption in edge computing for autonomous vehicles.
-  * Viva, August, 2024
+  * Viva, September 2024
 
 
 * 2023/2024, PE7046, Research Project
