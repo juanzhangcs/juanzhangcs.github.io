@@ -9,7 +9,7 @@ redirect_from:
 
 ## 2024
 
-* (07/2024) A paper submitted by Jeffery, my co-supervised PhD student, has been published in WINCOM 2024 [[DOI: 10.1109/WINCOM62286.2024.10656951]](https://ieeexplore.ieee.org/abstract/document/10656951).
+* (07/2024) A paper submitted by Jeffrey, my co-supervised PhD student, has been published in WINCOM 2024 [[DOI: 10.1109/WINCOM62286.2024.10656951]](https://ieeexplore.ieee.org/abstract/document/10656951).
 * (07/2024) Visit Computer Networks Group, Georg-August-University of Göttingen, Germany, for one month.<br />
   * Gave a talk on edge computing (9 July 2024).
 * (03/2024) Involved in an EU project COVER - Cooperative and intelligent unmanned aerial vehicles for emergency response applications.
