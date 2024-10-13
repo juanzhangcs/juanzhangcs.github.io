@@ -9,6 +9,8 @@ redirect_from:
 
 ## 2024
 
+* (10/2024) I will be teaching the module KV6017 (Enterprise Networks and Security) for year 3 undergraduate students and the module KF7023 (Computer Networks & Operating Systems) for master students in this SEM 1.
+* (10/2024) Review for the Journal Future Generation Computer Systems.
 * (09/2024) A paper is accepted by GLOBECOM 2024 Workshop.
 * (09/2024) Agreed to serve as TPC member, IEEE HPCC'2024.
 * (07/2024) A paper submitted by Jeffrey, my co-supervised PhD student, has been published in WINCOM 2024 [[DOI: 10.1109/WINCOM62286.2024.10656951]](https://ieeexplore.ieee.org/abstract/document/10656951).
