@@ -29,7 +29,7 @@ redirect_from:
 
 ## 2023
 
-* (12/2023) Our work on "Offloading in Vehicular Edge Computing" has been accept by IEEE Transactions on Intelligent Transportation Systems (T-ITS) [[DOI: 10.1109/TITS.2023.3348074](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10401007)].
+* (12/2023) Our work on "Offloading in Vehicular Edge Computing" has been accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS) [[DOI: 10.1109/TITS.2023.3348074](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10401007)].
 <!--* (12/2023) Start a new position as a Lecturer at Northumbria University, U.K.-->
 * (11/2023) Been invited as a reviewer for IEEE International Conference on Communications (ICC) papers.
 <!--* (11/2023) A paper is accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS).-->
