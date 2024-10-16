@@ -28,13 +28,31 @@ redirect_from:
 
 ## B.Sc. Project
 
+
+* 2024, SEM1, KV6013, Individual Computing Project
+  * **Floyd WAKEFIELD-WALLIS**, Title: Improve the security of multi-factor authentication.
+
+  * **Zayn AZAM**, Title: Decentralized Security Framework for Mobile Edge Computing.
+
+  * **Josh BROWN**, Title: IoT.
+
+  * **Evan HAMILTON**, Title: Enhanced Mobile Gaming Experience using Edge Computing.
+  
+  * **Adam BYERS**, Title: Improve the security of multi-factor authentication.
+
+  * **James PRICE**, Title: Enhanced Mobile Gaming Experience using Edge Computing.
+
+ 
+
 * 2023/2024, KV6003, Individual Computing Project
   * **Saboor Khan**, Title: Using AI to catch counterfeiting.
   * Viva, 20 May, 2024
-
-* 2023/2024, KV6003, Individual Computing Project
+  
   * **Harry Hughes**, Title: User-based Continuous Authentication.
   * Viva, May, 2024
+
+
+
 
 
 <!-- * SmartShip: Digital Twins for Intelligent Ships and Ship Fleets
