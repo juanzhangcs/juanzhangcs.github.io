@@ -46,10 +46,10 @@ redirect_from:
 
 * 2023/2024, KV6003, Individual Computing Project
   * **Saboor Khan**, Title: Using AI to catch counterfeiting.
-  * Viva, 20 May, 2024
+  ** Viva, 20 May, 2024
   
   * **Harry Hughes**, Title: User-based Continuous Authentication.
-  * Viva, May, 2024
+  ** Viva, May, 2024
 
 
 
