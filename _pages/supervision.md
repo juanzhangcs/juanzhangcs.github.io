@@ -13,12 +13,11 @@ redirect_from:
 
 ## M.Sc. Project
 
-* 2024, Term 3, **_KF7029_**, MSc Computer Science and Digital Technologies Project
+* 2024, Term 3, *KF7029*, MSc Computer Science and Digital Technologies Project
   * **Sai Dheeraj Nookala**, Title: Balancing latency and energy consumption in edge computing for autonomous vehicles.
     * Viva, September 2024
 
-
-* 2023/2024, **_PE7046_**, Research Project
+* 2023/2024, *PE7046*, Research Project
   * **Mohsen Mohammadghorbani**, Title: Exploring reinforcement Learning techniques in Java Gaming: Designing AI-Driven Game Agents for Simulating Human Behaviour.
     * Viva, July, 2024
 
@@ -27,8 +26,7 @@ redirect_from:
 
 ## B.Sc. Project
 
-
-* 2024, SEM1, **_KV6013_**, Individual Computing Project
+* 2024, SEM1, *KV6013*, Individual Computing Project
   * **Floyd WAKEFIELD-WALLIS**, Title: Improve the security of multi-factor authentication.
 
   * **Zayn AZAM**, Title: Decentralized Security Framework for Mobile Edge Computing.
@@ -41,9 +39,7 @@ redirect_from:
 
   * **James PRICE**, Title: Enhanced Mobile Gaming Experience using Edge Computing.
 
- 
-
-* 2023/2024, **_KV6003_**, Individual Computing Project
+* 2023/2024, *KV6003*, Individual Computing Project
   * **Saboor Khan**, Title: Using AI to catch counterfeiting.
     * Viva, 20 May, 2024
   
