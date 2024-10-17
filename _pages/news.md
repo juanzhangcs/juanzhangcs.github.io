@@ -10,8 +10,8 @@ redirect_from:
 ## 2024
 
 * (10/2024) Will be teaching the modules
-  * KV6017: Enterprise Networks and Security for year 3 undergraduate students, and
-  * KF7023: Computer Networks & Operating Systems for master students.
+  * KV6017: Enterprise Networks and Security, for year 3 undergraduate students, and
+  * KF7023: Computer Networks & Operating Systems, for master students.
 * (10/2024) Review for the Journal Future Generation Computer Systems.
 * (09/2024) A paper is accepted by GLOBECOM 2024 Workshop.
 * (09/2024) Agreed to serve as TPC member, IEEE HPCC'2024.
