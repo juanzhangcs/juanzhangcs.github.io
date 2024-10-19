@@ -9,7 +9,7 @@ redirect_from:
 
 ## 2024
 
-* (10/2024) Teach the modules
+* (10/2024) Teach modules
   * KV6017: Enterprise Networks and Security, for year 3 undergraduate students, and
   * KF7023: Computer Networks & Operating Systems, for master students.
 * (10/2024) Review for the Journal Future Generation Computer Systems.
