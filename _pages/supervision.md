@@ -31,7 +31,7 @@ redirect_from:
 
   * **Zayn AZAM**, Title: Decentralized Security Framework for Mobile Edge Computing.
 
-  * **Josh BROWN**, Title: IoT.
+  * **Josh BROWN**, Title: IoT-based Smart Retail Management System.
 
   * **Evan HAMILTON**, Title: Enhanced Mobile Gaming Experience using Edge Computing.
   
