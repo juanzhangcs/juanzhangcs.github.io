@@ -37,7 +37,7 @@ redirect_from:
   
   * **Adam BYERS**, Title: Improve the security of multi-factor authentication.
 
-  * **James PRICE**, Title: Enhanced Mobile Gaming Experience using Edge Computing.
+  * **James PRICE**, Title: Developing a story driven role-playing game : narrative and gameplay fusion.
 
 * 2023/2024, *KV6003*, Individual Computing Project
   * **Saboor Khan**, Title: Using AI to catch counterfeiting.
