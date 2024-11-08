@@ -26,7 +26,7 @@ redirect_from:
 
 ## B.Sc. Project
 
-* 2024, SEM1, *KV6013*, Individual Computing Project
+* 2024/2025, SEM1, *KV6013*, Individual Computing Project
   * **Floyd WAKEFIELD-WALLIS**, Title: Improve the security of multi-factor authentication.
 
   * **Zayn AZAM**, Title: Decentralized Security Framework for Mobile Edge Computing.
