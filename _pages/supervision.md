@@ -6,14 +6,14 @@ redirect_from:
   - /md/
   - /supervision.html
 ---
-## Ph.D Project
+## Ph.D Student
 
 * 2023/2024, **Jeffery Redondo Sarmiento**, Co-supervised with [Prof. Nauman Aslam](https://www.northumbria.ac.uk/about-us/our-staff/a/nauman-aslam/).
   * Topic: QoS enhancement for the dissemination of low-latency collaborative autonomous driving data in a multi-service environment.
   
   <!--Communication Offloading for Automated Vehicle-Assisted Mobile Edge Computing.-->
 
-## M.Sc. Project
+## M.Sc. Students
 
 * 2024, Term 3, *KF7029*, MSc Computer Science and Digital Technologies Project
   * **Sai Dheeraj Nookala**, Title: Balancing latency and energy consumption in edge computing for autonomous vehicles.
@@ -26,7 +26,7 @@ redirect_from:
   * **Holly Tippins**, Title: An experiment into human ability to detect fake images that considers: Does adding contextual information to an image make it more or less likely to be identified as a fake.
     * Viva, July, 2024
 
-## B.Sc. Project
+## B.Sc. Students
 
 * 2024/2025, SEM1, *KV6013*, Individual Computing Project
   * **Floyd WAKEFIELD-WALLIS**, Title: Improve the security of multi-factor authentication.
