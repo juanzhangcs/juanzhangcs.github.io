@@ -9,12 +9,12 @@ redirect_from:
 
 ## 2024
 
-* (12/2024) A paper entitled "Multi-agent Assessment with QoS Enhancement for HD Map Updates in a Vehicular Network and Multi-service Environment" is accepted by IEEE Transactions on Network Science and Engineering. Congratulations, Jeff!
+* (12/2024) A paper entitled "Multi-agent Assessment with QoS Enhancement for HD Map Updates in a Vehicular Network and Multi-service Environment" is accepted by **IEEE Transactions on Network Science and Engineering**. Congratulations, Jeff!
 * (10/2024) Teach modules
   * KV6017: Enterprise Networks and Security, for year 3 undergraduate students, and
   * KF7023: Computer Networks & Operating Systems, for master students.
 * (10/2024) Review for the Journal Future Generation Computer Systems.
-* (09/2024) A paper entitled "Bridge to Real Environment with Hardware-in-the-loop for Wireless Artificial Intelligence Paradigms" is accepted by GLOBECOM 2024 Workshop, Cape Town, South Africa, December 2024.
+* (09/2024) A paper entitled "Bridge to Real Environment with Hardware-in-the-loop for Wireless Artificial Intelligence Paradigms" is accepted by **IEEE GLOBECOM Workshop on Testbeds as a Service for Future Networks (TAASFN)**, Cape Town, South Africa, December 2024.
 * (09/2024) Agreed to serve as TPC member, IEEE HPCC'2024.
 * (07/2024) A paper submitted by Jeffrey, my co-supervised PhD student, has been published in WINCOM 2024 [[DOI: 10.1109/WINCOM62286.2024.10656951]](https://ieeexplore.ieee.org/abstract/document/10656951).
 * (07/2024) Visit Computer Networks Group, Georg-August-University of Göttingen, Germany, for one month.<br />
