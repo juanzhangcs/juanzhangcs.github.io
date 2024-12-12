@@ -9,7 +9,7 @@ redirect_from:
 
 ## 2024
 
-* (12/2024) A co-author work entitled "Multi-agent Assessment with QoS Enhancement for HD Map Updates in a Vehicular Network and Multi-service Environment" is accepted by **IEEE Transactions on Network Science and Engineering** [[DOI: 10.1109/TNSE.2024.3514744](https://ieeexplore.ieee.org/document/10787272)]. Congratulations, Jeffrey!
+* (12/2024) A work entitled "Multi-agent Assessment with QoS Enhancement for HD Map Updates in a Vehicular Network and Multi-service Environment" is accepted by **IEEE Transactions on Network Science and Engineering** [[DOI: 10.1109/TNSE.2024.3514744](https://ieeexplore.ieee.org/document/10787272)]. Congratulations, Jeffrey!
 * (10/2024) Teach modules
   * KV6017: Enterprise Networks and Security, for year 3 undergraduate students, and
   * KF7023: Computer Networks & Operating Systems, for master students.
