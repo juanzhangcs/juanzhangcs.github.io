@@ -7,6 +7,12 @@ redirect_from:
   - /news.html
 ---
 
+## 2025
+
+* (01/2025) Teach modules
+  * KF7031: Wireless Networks and Security, for year 3 undergraduate students, and
+  * KV5037: Computing Consultancy Project, for year 2 undergraduates supervision.
+
 ## 2024
 
 * (12/2024) A work entitled "Multi-agent Assessment with QoS Enhancement for HD Map Updates in a Vehicular Network and Multi-service Environment" is accepted by **IEEE Transactions on Network Science and Engineering** [[DOI: 10.1109/TNSE.2024.3514744](https://ieeexplore.ieee.org/document/10787272)]. Congratulations, Jeffrey!
