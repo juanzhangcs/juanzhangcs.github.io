@@ -9,6 +9,7 @@ redirect_from:
 
 ## 2025
 
+* (01/2025) TPC member of IEEE Globecom 2025 NGNI.
 * (01/2025) Teach modules
   * KF7031: Wireless Networks and Security, for year 3 undergraduate students, and
   * KV5037: Computing Consultancy Project, for year 2 undergraduates supervision.
