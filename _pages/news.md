@@ -25,7 +25,7 @@ redirect_from:
 * (09/2024) A paper entitled "Bridge to Real Environment with Hardware-in-the-loop for Wireless Artificial Intelligence Paradigms" is accepted by **IEEE GLOBECOM Workshop on Testbeds as a Service for Future Networks (TAASFN)**, Cape Town, South Africa, December 2024.
 * (09/2024) Agreed to serve as TPC member, IEEE HPCC'2024.
 * (07/2024) A paper submitted by Jeffrey, my co-supervised PhD student, has been published in **WINCOM 2024** [[DOI: 10.1109/WINCOM62286.2024.10656951](https://ieeexplore.ieee.org/abstract/document/10656951)].
-* (07/2024) Visit Computer Networks Group, Georg-August-University of Göttingen, Germany, for one month.<br />
+* (07/2024) Visit Computer Networks Group, Georg-August-University of Göttingen, Germany, for one month, financially supported by the COVER project.<br />
   * Gave a talk on edge computing (9 July 2024).
 * (03/2024) Involved in an EU project COVER - Cooperative and intelligent unmanned aerial vehicles for emergency response applications.
 * (03/2024) Agreed to serve as a session chair of IEEE ICC'24, June.
