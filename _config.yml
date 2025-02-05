@@ -81,7 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Juan Zhang"
-  avatar           : "juan.jpg"
+  avatar           : "jzhang.jpg"
+  #avatar           : "juan.jpg"
   #avatar           : "exm.png"
   #avatar           : "juan.jpeg"
   bio              : "Lecturer"
