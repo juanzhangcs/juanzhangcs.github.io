@@ -15,6 +15,13 @@ redirect_from:
 
 ## M.Sc. Students
 
+* 2025, Term 2, *KF7029*, MSc Computer Science and Digital Technologies Project
+  * **Navami Kaithakkatte Sanil**, Title: Towards privacy-preserving with split learning for communications in smart ships
+  * **Reyhan Ashley Nath NATH**, 
+  * **Ifeoma Vanessa Isiuwe**, Title: Towards privacy-preserving with split learning for communications in smart ships
+  * **Atif HUSSAIN** (w23063664),
+  * **Yaswanth SIVAKUMAR** (w23063481),
+
 * 2024, Term 3, *KF7029*, MSc Computer Science and Digital Technologies Project
   * **Sai Dheeraj Nookala**, Title: Balancing latency and energy consumption in edge computing for autonomous vehicles.
     * Viva, September 2024
