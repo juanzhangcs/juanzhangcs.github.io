@@ -9,7 +9,7 @@ redirect_from:
 
 ## 2025
 
-* (01/2025) Agreed to serve as TPC member of IEEE Globecom 2025 NGNI (2025 IEEE Global Communications Conference: Next-Generation Networking and Internet).
+* (01/2025) Served as TPC member of IEEE Globecom 2025 NGNI (2025 IEEE Global Communications Conference: Next-Generation Networking and Internet).
 * (01/2025) Teach modules
   * KF7029: Master student projects supervision.
   * KF7031: Wireless Networks and Security, for master students, and
@@ -28,9 +28,9 @@ redirect_from:
 * (07/2024) Visit Computer Networks Group, Georg-August-University of Göttingen, Germany, for one month, financially supported by the COVER project.<br />
   * Gave a talk on edge computing (9 July 2024).
 * (03/2024) Involved in an EU project COVER - Cooperative and intelligent unmanned aerial vehicles for emergency response applications.
-* (03/2024) Agreed to serve as a session chair of IEEE ICC'24, June.
+* (03/2024) Served as a session chair of IEEE ICC'24, June.
 * (03/2024) A paper, submitted by my first co-supervised PhD student, has been accepted by IWCMC 2024 [[DOI: 10.1109/IWCMC61514.2024.10592335](https://ieeexplore.ieee.org/abstract/document/10592335)].
-* (03/2024) Agreed to serve as TPC member of [IWCMC 2024 Vehicular Comm](https://iwcmc.net/2024/index.php) (IWCMC 2024 Vehicular Symposium).
+* (03/2024) Served as TPC member of [IWCMC 2024 Vehicular Comm](https://iwcmc.net/2024/index.php) (IWCMC 2024 Vehicular Symposium).
 * (02/2024) Our work entitled "Eco-driving-based mixed vehicular platoon control model for successive signalized intersections" is accepted by Physica A: Statistical Mechanics and its Applications [[DOI: 10.1016/j.physa.2024.129641](https://doi.org/10.1016/j.physa.2024.129641)].
 * (02/2024) Been invited as a reviewer for Journals Information Sciences, Knowledge-Based Systems, Computer Communications, etc.
 * (02/2024) Our work entitled "PHIR: A Platform Solution of Data-Driven Health Monitoring for Industrial Robots" is accepted by Machine Intelligent Information and Efficient System, Electronics [[DOI: 10.3390/electronics13050834](https://www.mdpi.com/2079-9292/13/5/834)].
