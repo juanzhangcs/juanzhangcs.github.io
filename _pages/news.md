@@ -11,9 +11,9 @@ redirect_from:
 
 * (01/2025) Served as TPC member of IEEE Globecom 2025 NGNI (2025 IEEE Global Communications Conference: Next-Generation Networking and Internet).
 * (01/2025) Teach modules
-  * KF7029: Master student projects supervision.
+  * KF7029: Supervision of master students’ projects.
   * KF7031: Wireless Networks and Security, for master students, and
-  * KV5037: Computing Consultancy Project, for year 2 undergraduates supervision.
+  * KV5037: Computing Consultancy Project, supervision for year 2 undergraduates' projects.
 
 ## 2024
 
