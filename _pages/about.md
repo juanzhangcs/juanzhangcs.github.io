@@ -34,7 +34,7 @@ I am also enthusiastic to teach and work with highly motivated students, and ver
 # Contact
 
 Dr. Juan Zhang <br />
-Department Computer and Information Sciences<br />
+Department of Computer and Information Sciences<br />
 Northumbria University Newcastle<br />
 E-mail: juan.zhang AT northumbria dot ac dot uk<br />
 <!--Room 011, H11, Holstenhofweg 85, 22043 Hamburg <br />
