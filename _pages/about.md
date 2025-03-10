@@ -28,8 +28,10 @@ My research interests include:
 
 I am also enthusiastic to teach and work with highly motivated students, and very excited to see students making progress. In qualification, I am an Associate Fellow of UKPSF (also in the last stage of the PGCAP process) for teaching and supporting learning in higher education, recognized by Advance HE.
 <br />
-
-I am very fortunate to work with many talented researchers and warm people, so I want to thank my Ph.D. supervisors, postdoc advisor, my students, my co-authors, my colleagues and everyone who has supported me and encouraged me to work on my research that not only contributes to advances of the field, but also can lead to the impact across multiple sectors in the real world.
+<br />
+<br />
+<br />
+I am very fortunate to work with many talented researchers and warm people, so I want to thank my Ph.D. supervisors, postdoc advisor, my students, my co-authors, my colleagues, my collaborators and everyone who has supported me and encouraged me to work on my research that not only contributes to advances of the field, but also can lead to the impact across multiple sectors in the real world.
 
 <br />
 <br />
