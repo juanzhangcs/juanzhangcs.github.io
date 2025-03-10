@@ -32,7 +32,7 @@ I am also enthusiastic to teach and work with highly motivated students, and ver
 
 ## Acknowledgement
 
-I am very fortunate to work with many talented researchers and kind-hearted individuals, so I want to thank my Ph.D. supervisors, postdoc advisor, students, co-authors, colleagues, collaborators and everyone who has supported and encouraged me to work on my research that not only contributes to advance the field, but also can lead to the impact across multiple sectors in the real world.
+I am very fortunate to work with many talented researchers and kind-hearted individuals, so I want to thank my Ph.D. supervisors, postdoc advisor, students, co-authors, colleagues, collaborators and everyone who has supported and encouraged me to work on the research that not only contributes to advance the field, but also can lead to the impact across multiple sectors in the real world.
 
 <br />
 <br />
