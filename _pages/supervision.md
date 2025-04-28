@@ -36,7 +36,7 @@ redirect_from:
 ## B.Sc. Students
 
 * 2024/2025, SEM2, *KV5037*, Computing Consultancy Project.
-  * 7 members/group X 3.
+  * 7 members/group $\times$ 3.
 
 * 2024/2025, SEM1, *KV6013*, Individual Computing Project
   * **Floyd WAKEFIELD-WALLIS**, Title: Improve the security of multi-factor authentication.
