@@ -15,7 +15,7 @@ redirect_from:
 * (01/2025) Teach modules
   * KF7029: Supervision of master students’ projects.
   * KF7031: Wireless Networks and Security, for master students, and
-  * KV5037: Computing Consultancy Project, supervision for year 2 undergraduates' projects (7 students * 3 groups).
+  * KV5037: Computing Consultancy Project, supervision for year 2 undergraduates' projects (7 students/group $\times$ 3 groups).
 
 ## 2024
 
