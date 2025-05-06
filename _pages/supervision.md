@@ -41,7 +41,7 @@ redirect_from:
 * 2024/2025, SEM1, *KV6013*, Individual Computing Project
   * **Floyd WAKEFIELD-WALLIS**, Title: Improve the security of multi-factor authentication.
 
-  * **Zayn AZAM**, Title: Decentralized Security Framework for Mobile Edge Computing.
+  * **Zayn AZAM**, Title: Evaluating the impact of feature selection on machine learning algorithms using performance metrics.
 
   * **Josh BROWN**, Title: An Integrated IoT-based Smart Retail Management System.
 
