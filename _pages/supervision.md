@@ -10,6 +10,7 @@ redirect_from:
 
 * 2023 - Present, Jeffrey Redondo Sarmiento, Co-supervised with [Prof. Nauman Aslam](https://www.northumbria.ac.uk/about-us/our-staff/a/nauman-aslam/).
   * Topic: QoS enhancement for the dissemination of low-latency collaborative autonomous driving data in a multi-service environment.
+
   
   <!--Communication Offloading for Automates Vehicle-Assisted Mobile Edge Computing.-->
 
@@ -39,9 +40,12 @@ redirect_from:
   * 7 members/group $\times$ 3.
 
 * 2024/2025, SEM1, *KV6013*, Individual Computing Project
-  * **Floyd WAKEFIELD-WALLIS**, Title: Improve the security of multi-factor authentication.
+  * **Floyd WAKEFIELD-WALLIS**, Title: Using Blockchain Technologies to Improve the Security of
+Multi-Factor Authentication.
+   * Viva, 21 May, 2025
 
   * **Zayn AZAM**, Title: Evaluating the impact of feature selection on machine learning algorithms using performance metrics.
+    * Viva, 2 June, 2025
 
   * **Josh BROWN**, Title: An Integrated IoT-based Smart Retail Management System.
 
