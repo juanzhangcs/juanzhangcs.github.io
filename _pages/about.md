@@ -27,7 +27,7 @@ My research interests include:
 * Decision-making strategies in future mobile networks
  <br />
 
-I am also enthusiastic to teach and work with highly motivated students, and very excited to see students making progress. In qualification, I am an Associate Fellow of UKPSF (also in the last stage of the PGCAP process) for teaching and supporting learning in higher education, recognized by Advance HE.
+I am also enthusiastic to teach and work with highly motivated students, and very excited to see students making progress. In qualification, I am a Fellow of UK Professional Standards Framework (UKPSF) for teaching and supporting learning in higher education, recognized by Advance HE.
 <br />
 <br />
 
