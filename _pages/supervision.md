@@ -19,8 +19,8 @@ redirect_from:
 * 2025, Term 2, *KF7029*, MSc Computer Science and Digital Technologies Project
   * **Navami Kaithakkatte Sanil**, Title: Towards privacy-preserving with split learning for communications in autonomous vehicles.
   * **Reyhan Ashley Nath NATH**, To be determined.
-  * **Ifeoma Vanessa Isiuwe**, Title: Towards privacy-preserving with split learning for communications in autonomous vehicles.
-    * Viva, 30 May 2025 
+  * **Ifeoma Vanessa Isiuwe** (w23057234), Title: Towards privacy-preserving with split learning for communications in autonomous vehicles.
+    * Viva, 30 May 2025
   * **Atif HUSSAIN** (w23063664), Task-oriented dynamic computation offloading among multiple mobile users and multiple edge servers.
     * Viva, 30 May 2025
   * **Yaswanth SIVAKUMAR** (w23063481), TBD.
