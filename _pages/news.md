@@ -12,10 +12,10 @@ redirect_from:
 <!--* (08/2025) Will serve as a part of the program committee of SmartCity-2025.-->
 * (05/2025) I am delighted to share that my first co-supervised PhD student, Jeffrey Redondo Sarmiento, has successfully defended his PhD thesis after a challenging six-hour examination. Congratulations to Jeffrey on this significant achievement, and I wish him continued success in his future endeavors.
 * (05/2025) Succefully complete Postgraduate Certificate in Academic Practice (PGCAP) and become a Fellow of the Higher Education Academy (FHEA).  
-* (05/2025) Serve as a committee member for the PhD project approval of Mr. Hao Xu.
+* (05/2025) It is my great hornor to serve as a committee member for the PhD project approval of Mr. Hao Xu.
 * (03/2025) Review for Future Generation Computer Systems.
-* (01/2025) Serve as TPC member of IEEE Globecom 2025 NGNI (2025 IEEE Global Communications Conference: Next-Generation Networking and Internet).
-* (01/2025) Serve as TPC member of IWCMC 2025 Veh-UAVs Symposium.
+* (01/2025) It is my great hornor to serve as TPC member of IEEE Globecom 2025 NGNI (2025 IEEE Global Communications Conference: Next-Generation Networking and Internet).
+* (01/2025) It is my great hornor to serve as TPC member of IWCMC 2025 Veh-UAVs Symposium.
 * (01/2025) Teach modules
   * KF7029: Supervision of master students’ projects.
   * KF7031: Wireless Networks and Security, for master students, and
