@@ -10,6 +10,7 @@ redirect_from:
 ## 2025
 
 <!--* (08/2025) Will serve as a part of the program committee of SmartCity-2025.-->
+* (05/2025) I am delighted to share that my first co-supervised PhD student, Jeffrey Redondo Sarmiento, has successfully defended his PhD thesis after a challenging six-hour examination. Congratulations to Jeffrey on this significant achievement, and I wish him continued success in his future endeavors.
 * (05/2025) Succefully complete Postgraduate Certificate in Academic Practice (PGCAP) and become a Fellow of the Higher Education Academy (FHEA).  
 * (05/2025) Serve as a committee member for the PhD project approval of Mr. Hao Xu.
 * (03/2025) Review for Future Generation Computer Systems.
