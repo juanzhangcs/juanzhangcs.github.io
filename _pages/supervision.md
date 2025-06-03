@@ -57,7 +57,9 @@ Multi-Factor Authentication.
   * **Adam BYERS**, Title: Decentralized Two-Factor Authentication Using Ethereum Smart Contracts.
     * Viva, 3 June, 2025
 
-  * **James PRICE**, Title: Developing a story driven role-playing game : narrative and gameplay fusion.
+  * **James PRICE**, Title: Can A Solo Game Developer Reach AAA Quality?
+    * Viva, 2 June, 2025 (Distinction)
+
 
 * 2023/2024, *KV6003*, Individual Computing Project
   * **Saboor Khan**, Title: Using AI to catch counterfeiting.
