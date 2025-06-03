@@ -54,7 +54,8 @@ Multi-Factor Authentication.
 
   * **Evan HAMILTON**, Title: Enhanced Mobile Gaming Experience using Edge Computing.
   
-  * **Adam BYERS**, Title: Improve the security of multi-factor authentication.
+  * **Adam BYERS**, Title: Decentralized Two-Factor Authentication Using Ethereum Smart Contracts.
+    * Viva, 3 June, 2025
 
   * **James PRICE**, Title: Developing a story driven role-playing game : narrative and gameplay fusion.
 
