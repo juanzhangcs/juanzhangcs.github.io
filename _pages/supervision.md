@@ -19,12 +19,15 @@ redirect_from:
 
 * 2025, Term 2, *KF7029*, MSc Computer Science and Digital Technologies Project
   * **Navami Kaithakkatte Sanil**, Title: Towards privacy-preserving with split learning for communications in autonomous vehicles.
-  * **Reyhan Ashley Nath NATH**, To be determined.
+    * Viva, 30 May 2025
+  * **Reyhan Ashley Nath NATH**, Priority-aware Offloading Strategies for Autonomous Vehicles in Edge Computing Environments.
+    * Viva, 30 May 2025
   * **Ifeoma Vanessa Isiuwe** (w23057234), Title: Towards privacy-preserving with split learning for communications in autonomous vehicles.
     * Viva, 30 May 2025
   * **Atif HUSSAIN** (w23063664), Task-oriented dynamic computation offloading among multiple mobile users and multiple edge servers.
     * Viva, 30 May 2025
-  * **Yaswanth SIVAKUMAR** (w23063481), TBD.
+  * **Yaswanth SIVAKUMAR** (w23063481), Towards Privacy-Preserving Split Learning for Communications in Autonomous Vehicles.
+    * Viva, 02 June 2025
 
 * 2024, Term 3, *KF7029*, MSc Computer Science and Digital Technologies Project
   * **Sai Dheeraj Nookala**, Title: Balancing latency and energy consumption in edge computing for autonomous vehicles.
@@ -51,9 +54,10 @@ Multi-Factor Authentication.
     * Viva, 2 June, 2025
 
   * **Josh BROWN**, Title: An Integrated IoT-based Smart Retail Management System.
+    * Viva, 27 May, 2025 
 
   * **Evan HAMILTON**, Title: Enhanced Mobile Gaming Experience using Edge Computing.
-  
+
   * **Adam BYERS**, Title: Decentralized Two-Factor Authentication Using Ethereum Smart Contracts.
     * Viva, 3 June, 2025
 
