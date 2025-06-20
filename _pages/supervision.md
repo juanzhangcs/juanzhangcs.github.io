@@ -17,6 +17,16 @@ redirect_from:
 
 ## M.Sc. Students
 
+* 2025, Term 3, *KF7029*, MSc Computer Science and Digital Technologies Project
+  * **Ameer Hamza**, Title: Communication – Efficient Federated Learning for Dynamic Task Offloading in 6G-Oriented Multi – Server Edge Networks.
+  * **Vinothkumar Chithiresan**, TBD
+  * **Mubashir Zamir**, Title: Latency-Aware Service Placement in Vehicular Edge Networks.
+  * **Manju.Padma.Sree.Medikonda**, Title: TBD
+  * **Mahya.Mohebi**, Title: TBD
+  * **Oyin-douye.Ronald.Ekpesu**, Title: TBD
+
+
+
 * 2025, Term 2, *KF7029*, MSc Computer Science and Digital Technologies Project
   * **Navami Kaithakkatte Sanil**, Title: Towards privacy-preserving with split learning for communications in autonomous vehicles.
     * Viva, 30 May 2025
