@@ -13,7 +13,7 @@ redirect_from:
 * (06/2025) I will start a new post at the University of Glasgow.
 * (06/2025) Supervising 6 master students in Term 3.
 * (05/2025) I am delighted to share that my first co-supervised PhD student, [Jeffrey Redondo Sarmiento](https://scholar.google.com/citations?user=l9wwwQMAAAAJ&hl=en), has successfully defended his PhD thesis after a challenging six-hour examination. Congratulations to Jeffrey on this significant achievement, and I wish him continued success in his future endeavors.
-* (05/2025) Successfully complete Postgraduate Certificate in Academic Practice (PGCAP) and become a Fellow of the Higher Education Academy (FHEA).  
+* (05/2025) **Successfully complete Postgraduate Certificate in Academic Practice (PGCAP) and become a Fellow of the Higher Education Academy (FHEA)**.  
 * (05/2025) It is my great hornor to serve as a committee member for the PhD project approval of Mr. Hao Xu.
 * (03/2025) Review for the Journal Future Generation Computer Systems.
 * (01/2025) It is my great hornor to serve as TPC member of IEEE Globecom 2025 NGNI (2025 IEEE Global Communications Conference: Next-Generation Networking and Internet).
