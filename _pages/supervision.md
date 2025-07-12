@@ -10,32 +10,28 @@ redirect_from:
 
 * 2023 - 2025, Jeffrey Redondo Sarmiento, Co-supervised with [Prof. Nauman Aslam](https://www.northumbria.ac.uk/about-us/our-staff/a/nauman-aslam/).
   * Topic: QoS enhancement for the dissemination of low-latency collaborative autonomous driving data in a multi-service environment.
-  * Viva, 30 May 2025
-
-  
+  * Viva, 30 May 2025.
   <!--Communication Offloading for Automates Vehicle-Assisted Mobile Edge Computing.-->
 
 ## M.Sc. Students
 
 * 2025, Term 3, *KF7029*, MSc Computer Science and Digital Technologies Project
   * **Ameer Hamza** (W24030475), Title: Communication – Efficient Federated Learning for Dynamic Task Offloading in 6G-Oriented Multi – Server Edge Networks.
-  * **Vinothkumar Chithiresan**, TBD
+  * **Vinothkumar Chithiresan**, Title: Lightweight Security Protocols for Edge-to-Cloud Communication.
   * **Mubashir Zamir**, Title: Latency-Aware Service Placement in Vehicular Edge Networks.
-  * **Manju.Padma.Sree.Medikonda**, Title: TBD
-  * **Mahya.Mohebi** (W20057905), Title: Dynamic bandwidth allocation for video streaming in mobile edge networks
+  * **Manju.Padma.Sree.Medikonda**, Title: Lightweight Security Protocols for Edge-to-Cloud Communication.
+  * **Mahya.Mohebi** (W20057905), Title: Dynamic bandwidth allocation for video streaming in mobile edge networks.
   * **Oyin-douye.Ronald.Ekpesu** (W24030393), Title: Task Offloading Optimization in Edge Computing Using Reinforcement Learning.
-
-
 
 * 2025, Term 2, *KF7029*, MSc Computer Science and Digital Technologies Project
   * **Navami Kaithakkatte Sanil**, Title: Towards privacy-preserving with split learning for communications in autonomous vehicles.
-    * Viva, 30 May 2025
+    * Viva, 30 May 2025.
   * **Reyhan Ashley Nath NATH**, Priority-aware Offloading Strategies for Autonomous Vehicles in Edge Computing Environments.
-    * Viva, 30 May 2025
+    * Viva, 30 May 2025.
   * **Ifeoma Vanessa Isiuwe** (w23057234), Title: Towards privacy-preserving with split learning for communications in autonomous vehicles.
-    * Viva, 30 May 2025
+    * Viva, 30 May 2025.
   * **Atif HUSSAIN** (w23063664), Task-oriented dynamic computation offloading among multiple mobile users and multiple edge servers.
-    * Viva, 30 May 2025
+    * Viva, 30 May 2025.
   * **Yaswanth SIVAKUMAR** (w23063481), Towards Privacy-Preserving Split Learning for Communications in Autonomous Vehicles.
     * Viva, 02 June 2025
 
@@ -58,18 +54,18 @@ redirect_from:
 * 2024/2025, SEM1, *KV6013*, Individual Computing Project
   * **Floyd WAKEFIELD-WALLIS**, Title: Using Blockchain Technologies to Improve the Security of
 Multi-Factor Authentication.
-   * Viva, 21 May, 2025
+   * Viva, 21 May, 2025.
 
   * **Zayn AZAM**, Title: Evaluating the impact of feature selection on machine learning algorithms using performance metrics.
-    * Viva, 2 June, 2025
+    * Viva, 2 June, 2025.
 
   * **Josh BROWN**, Title: An Integrated IoT-based Smart Retail Management System.
-    * Viva, 27 May, 2025 
+    * Viva, 27 May, 2025 .
 
   * **Evan HAMILTON**, Title: Enhanced Mobile Gaming Experience using Edge Computing.
 
   * **Adam BYERS**, Title: Decentralized Two-Factor Authentication Using Ethereum Smart Contracts.
-    * Viva, 3 June, 2025
+    * Viva, 3 June, 2025.
 
   * **James PRICE**, Title: Can A Solo Game Developer Reach AAA Quality?
     * Viva, 2 June, 2025 (Distinction)
@@ -77,10 +73,10 @@ Multi-Factor Authentication.
 
 * 2023/2024, *KV6003*, Individual Computing Project
   * **Saboor Khan**, Title: Using AI to catch counterfeiting.
-    * Viva, 20 May, 2024
+    * Viva, 20 May, 2024.
   
   * **Harry Hughes**, Title: User-based Continuous Authentication.
-    * Viva, May, 2024
+    * Viva, May, 2024.
 
 
 
