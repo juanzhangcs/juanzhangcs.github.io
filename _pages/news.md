@@ -10,8 +10,8 @@ redirect_from:
 ## 2025
 <!--* (09/2025) Starting a new post at James Watt School of Engineering, University of Glasgow.-->
 * (09/2025) I will be involved in the teaching team for the modules
-  * Electronic Devices, and 
-  * Digital Circuit Design
+  * UESTCHN3008 ED: Electronic Devices, and
+  * UESTCHN3006 DCD: Digital Circuit Design.
 * (08/2025) It is my great hornor to serve as a part of the program committee of SmartCity-2025. 
 * (06/2025) I will start a new post at the University of Glasgow.
 * (06/2025) Supervising 6 master students in Term 3.
