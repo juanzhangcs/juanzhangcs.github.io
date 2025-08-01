@@ -12,7 +12,7 @@ redirect_from:
 * (09/2025) I will be involved in the teaching team for the modules
   * UESTCHN3008 ED: Electronic Devices, and
   * UESTCHN3006 DCD: Digital Circuit Design.
-* (08/2025) It is my great hornor to serve as a part of the program committee of SmartCity-2025. 
+* (08/2025) It is my great hornor to serve as a part of the program committee of [SmartCity-2025](https://hpcn.exeter.ac.uk/smartcity2025/).
 * (06/2025) I will start a new post at the University of Glasgow.
 * (06/2025) Supervising 6 master students in Term 3.
 * (05/2025) I am delighted to share that my first co-supervised PhD student, [Jeffrey Redondo Sarmiento](https://scholar.google.com/citations?user=l9wwwQMAAAAJ&hl=en), has successfully defended his PhD thesis after a challenging six-hour examination. Congratulations to Jeffrey on this significant achievement, and I wish him continued success in his future endeavors.
