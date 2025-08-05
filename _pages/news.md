@@ -12,8 +12,8 @@ redirect_from:
 * (09/2025) I will be involved in the teaching team for the modules
   * ED: Electronic Devices, and
   * DCD: Digital Circuit Design.
-  <!--* UESTCHN3008 ED: Electronic Devices, and
-  * UESTCHN3006 DCD: Digital Circuit Design.-->
+  <!--* UESTCHN3008 ED: Electronic Devices, and-->
+  <!--* UESTCHN3006 DCD: Digital Circuit Design.-->
 * (09/2025) I start a new post at the University of Glasgow.
 * (08/2025) It is my great hornor to serve as a part of the program committee of [SmartCity-2025](https://hpcn.exeter.ac.uk/smartcity2025/).
 * (06/2025) Supervising 6 master students in Term 3.
