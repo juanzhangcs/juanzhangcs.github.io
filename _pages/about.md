@@ -64,7 +64,7 @@ I am very fortunate to work with many talented researchers and kind-hearted indi
 
 Dr. Juan Zhang <br />
 James Watt School of Engineering<br />
-University of Golasgow<br />
+University of Glasgow<br />
 E-mail: juan.zhang AT glasgow dot ac dot uk<br />
 <!--Room 011, H11, Holstenhofweg 85, 22043 Hamburg <br />
 High Performance Computing<br />
