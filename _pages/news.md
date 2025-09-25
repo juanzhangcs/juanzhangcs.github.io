@@ -9,7 +9,7 @@ redirect_from:
 
 ## 2025
 <!--* (09/2025) Starting a new post at James Watt School of Engineering, University of Glasgow.-->
-* (09/2025) I will be involved in the teaching team for the modules
+* (09/2025) I am involved in the teaching team for the modules
   * Electronic Devices, and
   * Digital Circuit Design.
   <!--* UESTCHN3008 ED: Electronic Devices, and-->
