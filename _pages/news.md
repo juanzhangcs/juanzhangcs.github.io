@@ -9,6 +9,7 @@ redirect_from:
 
 ## 2025
 <!--* (09/2025) Starting a new post at James Watt School of Engineering, University of Glasgow.-->
+*  <span style="color:red">I am looking for 1-2  high self-motivated PhD student(s), if you are interested in my research, please feel free to drop me an email with your CV.</span>
 * (09/2025) I am involved in the teaching team for the modules
   * Electronic Devices, and
   * Digital Circuit Design.
