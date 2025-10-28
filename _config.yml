@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "[Dr. Juan Zhang](https://www.gla.ac.uk/schools/engineering/staff/juanzhang/)"
+title                    : "Dr. Juan Zhang"
 title_separator          : "-"
 name                     : &name "Juan Zhang"
 description              : &description "personal description"
