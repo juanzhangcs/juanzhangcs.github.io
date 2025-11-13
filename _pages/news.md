@@ -17,8 +17,8 @@ redirect_from:
 <!--* (10/2025) It was my great honour to serve as an internal committee member for the PhD annual review of Salem Saleh B. Alyami and Chun Yu Lim. -->
 * (09/2025) My great hornor to serve as the program committee member of [Systems and Infrastructure for Web, Mobile and WoT (WWW2026)](https://www2026.thewebconf.org/).
 * (09/2025) I am involved in the teaching team for the modules
-  * Electronic Devices, and
-  * Digital Circuit Design.
+  * Electronic Devices (year 3 students), and
+  * Digital Circuit Design (year 3 students).
   <!--* UESTCHN3008 ED: Electronic Devices, and-->
   <!--* UESTCHN3006 DCD: Digital Circuit Design.-->
 * (09/2025) I start a new post at the University of Glasgow.
