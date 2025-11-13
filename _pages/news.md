@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /news.html
 ---
-  <span style="color:red"> I am seeking 1–2 highly motivated PhD students. If you are interested in my research and working with me, please send me an email with your CV and fulfil this [form](https://forms.gle/B3hNMEpBypouiQ5D9).</span>
+  <span style="color:red"> I am looking for 1–2 highly motivated PhD students. If you are interested in my research and working with me, please send me an email with your CV and fulfil this [form](https://forms.gle/B3hNMEpBypouiQ5D9).</span>
 
 ## 2025
 <!--* (09/2025) Starting a new post at James Watt School of Engineering, University of Glasgow.-->
