@@ -89,5 +89,3 @@ redirect_from:
 
 * (06/2021) Gave a presentation in International Conference on Communications (ICC).
 * (06/2021) A paper entitled "An Intelligent Actuator of an Indoor Logistics System Based on Multi-Sensor Fusion" has been accepted by Journal, <i>Actuators</i>, 2021.
-
-ii
