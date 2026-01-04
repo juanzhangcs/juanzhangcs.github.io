@@ -10,7 +10,8 @@ redirect_from:
 
 ## 2025
 <!--* (09/2025) Starting a new post at James Watt School of Engineering, University of Glasgow.-->
-* (12/2025) I am happy to share that my research proposal has been successful in recent application, awarded by Royal Society. <!--My sincere gratitude to the Royal Society and the review panel for their support and valuable evaluation, and thank colleagues and collaborators for their encouragement and contributions throughout the process.-->
+* (12/2025) I am happy to share that my research proposal has been successful in recent application, awarded by Royal Society. 
+  * My sincere gratitude goes to the Royal Society and the review panel for their trust and valuable evaluation, and to my colleagues and collaborators for their support throughout the process.
 * (11/2025) Gave a presentation in the CCS group of Engineering, titled "Intelligent and Cooperative Edge Computing: From Decision-Making to Sustainability".
 * (10/2025) Serve as the internal examiner for a PhD viva.
 * (10/2025) Serve as an internal committee member for the annual review of 2 PhD students.
