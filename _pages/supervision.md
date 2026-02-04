@@ -16,9 +16,9 @@ redirect_from:
 ## M.Sc. Students
 
 * 2025, Term 3, *KF7029*, MSc Computer Science and Digital Technologies Project
-  * **Ameer Hamza** (W24030475), Title: Communication – Efficient Federated Learning for Dynamic Task Offloading in 6G-Oriented Multi – Server Edge Networks.
+  * **Ameer Hamza** (Distinction) (W24030475), Title: Communication – Efficient Federated Learning for Dynamic Task Offloading in 6G-Oriented Multi – Server Edge Networks.
   * **Vinothkumar Chithiresan**, Title: Lightweight Security Protocols for Edge-to-Cloud Communication.
-  * **Mubashir Zamir**, Title: Latency-Aware Service Placement in Vehicular Edge Networks.
+  * **Mubashir Zamir** (Distinction), Title: Latency-Aware Service Placement in Vehicular Edge Networks.
   * **Manju.Padma.Sree.Medikonda**, Title: Lightweight Security Protocols for Edge-to-Cloud Communication.
   * **Mahya.Mohebi** (W20057905), Title: Dynamic bandwidth allocation for video streaming in mobile edge networks.
   * **Oyin-douye.Ronald.Ekpesu** (W24030393), Title: Task Offloading Optimization in Edge Computing Using Reinforcement Learning.
