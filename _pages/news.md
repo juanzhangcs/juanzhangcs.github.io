@@ -10,6 +10,7 @@ redirect_from:
 
 ## 2025
 <!--* (09/2025) Starting a new post at James Watt School of Engineering, University of Glasgow.-->
+*	Serve as the PC member of IEEE COINS 2026.
 * (01/2026) Serve as the internal examiner for a PhD viva.
 * (12/2025) I am happy to share that my grant proposal (as PI) has been successful, awarded by the Royal Society.
   * My sincere gratitude goes to the Royal Society and the review panel for their trust and valuable evaluation, and to my colleagues and collaborators for their support throughout the process.
