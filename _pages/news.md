@@ -10,7 +10,7 @@ redirect_from:
 
 ## 2025
 <!--* (09/2025) Starting a new post at James Watt School of Engineering, University of Glasgow.-->
-*	Serve as the PC member of [IEEE COINS 2026](https://coinsconf.com/).
+*	(02/2026) Serve as the PC member of [IEEE COINS 2026](https://coinsconf.com/).
 * (01/2026) Serve as the internal examiner for a PhD viva.
 * (12/2025) I am happy to share that my grant proposal (as PI) has been successful, awarded by the Royal Society.
   * My sincere gratitude goes to the Royal Society and the review panel for their trust and valuable evaluation, and to my colleagues and collaborators for their support throughout the process.
@@ -19,8 +19,8 @@ redirect_from:
 <!--* (10/2025) It was my great honour to serve as an internal committee member for the PhD annual review of Salem Saleh B. Alyami and Chun Yu Lim. -->
 * (09/2025) My great hornor to serve as the program committee member of [Systems and Infrastructure for Web, Mobile and WoT (WWW2026)](https://www2026.thewebconf.org/).
 * (09/2025) I am involved in the teaching team for the modules
-  * Electronic Devices (year 3 students), and
-  * Digital Circuit Design (year 3 students).
+  * Electronic Devices (year 3 undergraduates), and
+  * Digital Circuit Design (year 3 undergraduates).
   <!--* UESTCHN3008 ED: Electronic Devices, and-->
   <!--* UESTCHN3006 DCD: Digital Circuit Design.-->
 * (09/2025) I start a new post at the University of Glasgow.
