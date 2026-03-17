@@ -27,7 +27,7 @@ redirect_from:
     * Department of Computer and Information Sciences, Northumbria University
 
 * KF7029: MSc Computer Science & Digital Technologies Project.
-    * Project supervision (×6 master students),
+    * Project supervision (× 6 master students),
     * Department of Computer and Information Sciences, Northumbria University
 
 ### Autumn 2024
@@ -40,7 +40,7 @@ redirect_from:
     * Northumbria University, Department of Computer and Information Sciences. Autumn (Term 1), 2024
 
 * KV6013: B.Sc Computing Project.
-    * Project supervision for year 3 undergraduates (×6 students),
+    * Project supervision for year 3 undergraduates (× 6 students),
     * Department of Computer and Information Sciences, Northumbria University.
 
 ### Spring 2024
