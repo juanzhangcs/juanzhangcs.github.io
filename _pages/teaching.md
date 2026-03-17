@@ -34,11 +34,11 @@ redirect_from:
 ### Autumn 2024
 * KF7023: Computer Networks & Operating Systems
     * Module teaching for master students.
-    * Department of Computer and Information Sciences, Northumbria University. Autumn (Term 1), 2024
+    * Department of Computer and Information Sciences, Northumbria University.
   
 * KV6017: Enterprise Networks and Security
     * Module teaching for year 3 undergraduate students.
-    * Department of Computer and Information Sciences, Northumbria University. Autumn (Term 1), 2024
+    * Department of Computer and Information Sciences, Northumbria University. 
 
 * KV6013: B.Sc Computing Project.
     * Project supervision for year 3 undergraduates (× 6 students),
@@ -47,72 +47,72 @@ redirect_from:
 ### Spring 2024
 * KF7029: MSc Computer Science & Digital Technologies Project
   * Supervise master students on their research project.
-  * Department of Computer and Information Sciences, Northumbria University. Spring, 2024
+  * Department of Computer and Information Sciences, Northumbria University. 
 
 * KF7031: Computer Networks and Cyber Security
   * Lectures and workshops for master students (Level 7).
-  * Department of Computer and Information Sciences, Northumbria University. Spring, 2024
+  * Department of Computer and Information Sciences, Northumbria University. 
 
 * KV5002: Computer Networks, Security and Operating Systems
   * Lectures and workshops for master students.
-  * Department of Computer and Information Sciences, Northumbria University. Spring, 2024
+  * Department of Computer and Information Sciences, Northumbria University. 
 
 * KF6004: Computer Networks and Cyber Security
   * Lectures and workshops for year 3 undergraduate students (Level 6).
-  * Department of Computer and Information Sciences, Northumbria University. Spring, 2024
+  * Department of Computer and Information Sciences, Northumbria University. 
 
 ### Autumn 2021
 * ECM2414: Software Development
   * 140hrs workshop for year 2 students.
-  * Department of Computer Science, University of Exeter. Autumn, 2021
+  * Department of Computer Science, University of Exeter. 
 
 ### Summer 2021
 * ECMM445: Learning from Data
   * 60hrs workshop for master students.
-  * Department of Computer Science, University of Exeter. Summer, 2021
+  * Department of Computer Science, University of Exeter. 
 
 ### Spring 2021
 * ECM3408: Enterprise Computing
   * 60hrs workshop for year 2 students.
-  * Department of Computer Science, University of Exeter. Spring, 2021
+  * Department of Computer Science, University of Exeter. 
 
 * ECM3401: Literature Review and Project Specification
   * 30hrs workshop for year 3 students.
-  * Department of Computer Science, University of Exeter. Spring, 2021
+  * Department of Computer Science, University of Exeter. 
 
 ### Autumn 2020
 * ECM2414: Software Development
   * 140hrs workshop for year 2 students.
-  * Department of Computer Science, University of Exeter. Autumn, 2020
+  * Department of Computer Science, University of Exeter. 
 
 * ECM3420, ECMM457 & ECMM445: Learning from Data
   * 60hrs workshop for year 3 undergraduates and master students.
-  * Department of Computer Science, University of Exeter. Autumn, 2020
+  * Department of Computer Science, University of Exeter. 
 
 
 ### Autumn 2019
 * ECM2414: Software Development
   * 140hrs workshop for year 2 students.
-  * Department of Computer Science, University of Exeter. Autumn, 2019
+  * Department of Computer Science, University of Exeter.
 
 * ECM3420 & ECMM445: Learning from Data
   * 60hrs workshop for year 3 students.
-  * Department of Computer Science, University of Exeter. Autumn, 2019
+  * Department of Computer Science, University of Exeter.
 
 ### Spring 2019
 * ECM2423: Artificial Intelligence and Applications
   * 60hrs workshop for year 2 undergraduate students.
-  * Department of Computer Science, University of Exeter. Spring, 2019
+  * Department of Computer Science, University of Exeter.
 
 ### Autumn 2018
 * ECM3428: Algorithms that Changed the World
   * 60hrs workshop for year 3 students.
-  * Department of Computer Science, University of Exeter. Autumn, 2018
+  * Department of Computer Science, University of Exeter.
 
 ### Spring 2018
 * ECM2427: Outside The Box: Computer Science Research and Applications
   * 90hrs workshop for year 2 students.
-  * Department of Computer Science, University of Exeter. Spring, 2018
+  * Department of Computer Science, University of Exeter. 
 
 * Formal Methods
   * Workshop, Beihang University, School of Reliability and Systems Engineering, 2011
