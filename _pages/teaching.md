@@ -8,15 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+## Lecture
 ### Autumn 2026
 * Wireless Sensor Networks, Year 4 undergraduates, Term 1, 2026-2026
-
 * Digital Circuit Design, year 3 undergraduates, Term 1, 2026-2027
 
 ### Autumn 2025
 * Electronic Devices, year 3 undergraduates, Term 1, 2025-2026
-
 * Digital Circuit Design, year 3 undergraduates, Term 1, 2025-2026
 
 ### Spring 2025
