@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
-## Lecture
+
 ### Autumn 2026
-* Wireless Sensor Networks, Year 4 undergraduates, Term 1, 2026-2026
-* Digital Circuit Design, year 3 undergraduates, Term 1, 2026-2027
+* Wireless Sensor Networks, module teaching for Year 4 undergraduates, Term 1, 2026-2026
+* Digital Circuit Design, module teaching for year 3 undergraduates, Term 1, 2026-2027
 
 ### Autumn 2025
-* Electronic Devices, year 3 undergraduates, Term 1, 2025-2026
-* Digital Circuit Design, year 3 undergraduates, Term 1, 2025-2026
+* Electronic Devices, module teaching for year 3 undergraduates, Term 1, 2025-2026
+* Digital Circuit Design, module teaching for year 3 undergraduates, Term 1, 2025-2026
 
 ### Spring 2025
 * KF7031: Wireless Networks and Security.
@@ -60,7 +60,6 @@ redirect_from:
   * Lectures and workshops for year 3 undergraduate students.
   * Northumbria University, Department of Computer and Information Sciences. Spring, 2024
 
-## Teaching Associate
 ### Autumn 2021
 * ECM2414: Software Development
   * 140hrs workshop for year 2 students.
