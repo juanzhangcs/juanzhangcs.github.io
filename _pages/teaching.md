@@ -48,8 +48,8 @@ redirect_from:
   * Supervise master students on their research project.
   * Northumbria University, Department of Computer and Information Sciences. Spring, 2024
 
-* KF6004/KF7031: Computer Networks and Cyber Security
-  * Lectures and workshops for year 3 undergraduate students (Level 6) and master students (Level 7).
+* KF7031: Computer Networks and Cyber Security
+  * Lectures and workshops for master students (Level 7).
   * Northumbria University, Department of Computer and Information Sciences. Spring, 2024
 
 * KV5002: Computer Networks, Security and Operating Systems
@@ -57,7 +57,7 @@ redirect_from:
   * Northumbria University, Department of Computer and Information Sciences. Spring, 2024
 
 * KF6004: Computer Networks and Cyber Security
-  * Lectures and workshops for year 3 undergraduate students.
+  * Lectures and workshops for year 3 undergraduate students (Level 6).
   * Northumbria University, Department of Computer and Information Sciences. Spring, 2024
 
 ### Autumn 2021
@@ -85,12 +85,9 @@ redirect_from:
   * University of Exeter, Department of Computer Science. Autumn, 2020
 
 * ECM3420, ECMM457 & ECMM445: Learning from Data
-  * 60hrs workshop for year 3 and master students.
+  * 60hrs workshop for year 3 undergraduates and master students.
   * Workshop, University of Exeter, Department of Computer Science. Autumn, 2020
 
-* ECM2423: Artificial Intelligence and Applications
-  * 60hrs workshop for undergraduate students (Year 2).
-  * University of Exeter, Department of Computer Science. Spring, 2019
 
 ### Autumn 2019
 * ECM2414: Software Development
@@ -102,9 +99,9 @@ redirect_from:
   * University of Exeter, Department of Computer Science. Autumn, 2019
 
 ### Spring 2019
-*  ECM2423: Artificial Intelligence and Applications.
-    * 60hrs workshop for year 2 students.
-    * Department of Computer Science, University of Exeter. Spring 2019
+* ECM2423: Artificial Intelligence and Applications
+  * 60hrs workshop for year 2 undergraduate students (Year 2).
+  * University of Exeter, Department of Computer Science. Spring, 2019
 
 ### Autumn 2018
 * ECM3428: Algorithms that Changed the World
