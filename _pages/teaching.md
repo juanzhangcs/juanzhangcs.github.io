@@ -19,15 +19,31 @@ redirect_from:
 
 * Digital Circuit Design, year 3 undergraduates, Term 1, 2025-2026
 
-### Autumn 2024
+### Spring 2025
+* KF7031: Wireless Networks and Security.
+    * Lectures and workshops for 86 master students,
+    * Department of Computer and Information Sciences, Northumbria University
 
+* KV5037: Computing Consultancy Project.
+    * Project supervision for year 2 undergraduates (7 students ×3 groups),
+    * Department of Computer and Information Sciences, Northumbria University
+
+* KF7029: MSc Computer Science & Digital Technologies Project.
+    * Project supervision (×6 master students),
+    * Department of Computer and Information Sciences, Northumbria University
+
+### Autumn 2024
 * KF7023: Computer Networks & Operating Systems
-  * Module teaching for master students.
-  * Northumbria University, Department of Computer and Information Sciences. Autumn (Term 1), 2024
+    * Module teaching for master students.
+    * Northumbria University, Department of Computer and Information Sciences. Autumn (Term 1), 2024
   
 * KV6017: Enterprise Networks and Security
-  * Module teaching for year 3 undergraduate students.
-  * Northumbria University, Department of Computer and Information Sciences. Autumn (Term 1), 2024
+    * Module teaching for year 3 undergraduate students.
+    * Northumbria University, Department of Computer and Information Sciences. Autumn (Term 1), 2024
+
+* KV6013: B.Sc Computing Project.
+    * Project supervision for year 3 undergraduates (×6 students),
+    * Department of Computer and Information Sciences, Northumbria University.
 
 ### Spring 2024
 * KF7029: MSc Computer Science & Digital Technologies Project
@@ -46,6 +62,7 @@ redirect_from:
   * Lectures and workshops for year 3 undergraduate students.
   * Northumbria University, Department of Computer and Information Sciences. Spring, 2024
 
+## Teaching Associate
 ### Autumn 2021
 * ECM2414: Software Development
   * 140hrs workshop for year 2 students.
