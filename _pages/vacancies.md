@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
- <span style="color:red"> I am always looking for highly motivated PhD students (Fully Funded). If you are interested in my research and working with me, please feel free to send me an email with your CV and fulfil this [form](https://forms.gle/B3hNMEpBypouiQ5D9).</span>
+ <span style="color:red"> I am always looking for highly motivated PhD students. If you are interested in my research and working with me, please feel free to send me an email with your CV and fulfil this [form](https://forms.gle/B3hNMEpBypouiQ5D9).</span>
 
 ## Opportunities
 ### Engineering & Physical Sciences Research Council(EPSRC) Doctoral Landscape Scholarship
