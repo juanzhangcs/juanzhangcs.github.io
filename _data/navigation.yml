@@ -16,7 +16,10 @@ main:
   #   url: /projects/
 
   - title: "Supervision"
-    url: /supervision/  
+    url: /supervision/ 
+
+  - title: "Open Positions"
+    url: /open-position/ 
   
   # - title: "Talks"
   #   url: /talks/  
