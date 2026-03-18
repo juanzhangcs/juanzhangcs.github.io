@@ -52,7 +52,7 @@ This scheme provides academically excellent Chinese students with the opportunit
 
     * Contact of the graduate office for more infomration if needed: **College of Social Sciences**: [socsci-scholarships@glasgow.ac.uk](socsci-scholarships@glasgow.ac.uk)
 
-* For more information, please refer [here](https://www.gla.ac.uk/scholarships/thechinascholarshipcouncil/).
+* For more information, please refer university page [here](https://www.gla.ac.uk/scholarships/thechinascholarshipcouncil/).
 
 ## Other Opportunities
 I also welcome enquiries from MSc and undergraduate students interested in dissertation projects, as well as visiting students and research assistants (subject to availability). 
