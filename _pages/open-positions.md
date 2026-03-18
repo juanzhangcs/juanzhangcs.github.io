@@ -1,16 +1,3 @@
-<!--
----
-title: "Open Positions"
-permalink: /open-positions/
-layout: single
-author_profile: true
----
-
-## Open Positions
-
-Test page.
--->
-
 ---
 permalink: /open-positions/
 title: "Open Positions"
