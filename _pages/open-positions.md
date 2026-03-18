@@ -32,7 +32,7 @@ EPSRC provides funding to support research and training in engineering and the p
 * Full tuition fee covered plus annual stipend of £19,237 for 3.5 years (increasing in 2025 in line with the UKRI published stipend).
 * For more information contact: scieng-gradschool@glasgow.ac.uk
 * How to apply:
-  * Select programme of study at https://www.gla.ac.uk/postgraduate/research/ and click on 'How to Apply'.
+  * Select programme of study at <span style="color:blue">https://www.gla.ac.uk/postgraduate/research/</span> and click on 'How to Apply'.
   * To be considered for this funding, please note ‘EPSRC’ under funding source.
 * For further information, please refer [here](https://www.gla.ac.uk/scholarships/epsrcdoctorallandscapescholarships/).
 
