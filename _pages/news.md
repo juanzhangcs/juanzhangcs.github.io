@@ -6,8 +6,6 @@ redirect_from:
   - /md/
   - /news.html
 ---
-  <span style="color:red"> I am always looking for highly motivated PhD students. If you are interested in my research and would like to work with me, please feel free to email me your CV and complete this [form](https://forms.gle/B3hNMEpBypouiQ5D9).</span>
-
 ## 2025
 <!--* (09/2025) Starting a new post at James Watt School of Engineering, University of Glasgow.-->
 *	(02/2026) Serve as the PC member of [IEEE COINS 2026](https://coinsconf.com/).

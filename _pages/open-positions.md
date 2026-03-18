@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
- I am always looking for highly motivated PhD students. If you are interested in my research and working with me, please feel free to send me an email with your CV and fulfil this [form](https://forms.gle/B3hNMEpBypouiQ5D9).
+<span style="color:red"> I am always looking for highly motivated PhD students. If you are interested in my research and would like to work with me, please feel free to email me your CV and complete this [form](https://forms.gle/B3hNMEpBypouiQ5D9).</span>
 
 ## PhD Funding
 Funded PhD opportunities are available through university and external scholarship schemes (e.g., EPSRC). Please check the relevant calls for details.
