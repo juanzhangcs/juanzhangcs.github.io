@@ -1,3 +1,16 @@
+
+---
+title: "Open Positions"
+permalink: /open-positions/
+layout: single
+author_profile: true
+---
+
+## Open Positions
+
+Test page.
+
+<!--
 ---
 permalink: /open-positions/
 title: "Open Positions"
@@ -42,4 +55,4 @@ This scheme provides academically excellent Chinese students with the opportunit
 * For more information, please refer [here](https://www.gla.ac.uk/scholarships/thechinascholarshipcouncil/).
 
 ## Other Opportunities
-I also welcome enquiries from MSc and undergraduate students interested in dissertation projects, as well as visiting students and research assistants (subject to availability).
+I also welcome enquiries from MSc and undergraduate students interested in dissertation projects, as well as visiting students and research assistants (subject to availability). -->
