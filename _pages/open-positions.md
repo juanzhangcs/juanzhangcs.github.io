@@ -17,11 +17,6 @@ Funded PhD opportunities are available through university and external scholarsh
 
 ### Engineering & Physical Sciences Research Council (EPSRC) Doctoral Landscape Scholarship
 EPSRC provides funding to support research and training in engineering and the physical sciences. 
-<!--
-* Full tuition fee covered plus annual stipend of £19,237 for 3.5 years (increasing in 2025 in line with the UKRI published stipend).
-* How to apply:
-  * Select programme of study at <span style="color:blue">https://www.gla.ac.uk/postgraduate/research/</span> and click on 'How to Apply'.
-  * To be considered for this funding, please note ‘EPSRC’ under funding source.-->
 * For further information, please refer [here](https://www.gla.ac.uk/scholarships/epsrcdoctorallandscapescholarships/).
 
 ### China Scholarship Council (CSC) PhD scholarship
