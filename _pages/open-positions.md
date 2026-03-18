@@ -25,10 +25,10 @@ EPSRC provides funding to support research and training in engineering and the p
 
 ### China Scholarship Council (CSC) PhD scholarship
 This scheme provides academically excellent Chinese students with the opportunity to study for a PhD at the University of Glasgow. The scholarships are supported jointly by the China Scholarship Council and the University of Glasgow.
-* In order to be considered for this scholarship you must apply for postgraduate research at Glasgow by the end of January to allow time for your offer to be processed by [Apply](http://www.gla.ac.uk/research/opportunities/howtoapplyforaresearchdegree/)
+* In order to be considered for this scholarship you must apply for postgraduate research at Glasgow by the end of January each year to allow time for your offer to be processed by [Apply](http://www.gla.ac.uk/research/opportunities/howtoapplyforaresearchdegree/).
     
 
-For more information, please refer university page [here](https://www.gla.ac.uk/scholarships/thechinascholarshipcouncil/), or contact the graduate office for more infomration: **College of Science and Engineering**: scieng-gradschool@glasgow.ac.uk
+For more information, please refer university page [here](https://www.gla.ac.uk/scholarships/thechinascholarshipcouncil/), or contact the graduate office: **College of Science and Engineering**: scieng-gradschool@glasgow.ac.uk
 
 ## Other Opportunities
 I also welcome enquiries from MSc and undergraduate students interested in dissertation projects, as well as visiting students and research assistants (subject to availability). 
