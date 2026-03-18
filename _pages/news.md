@@ -6,10 +6,12 @@ redirect_from:
   - /md/
   - /news.html
 ---
-## 2025
+## 2026
 <!--* (09/2025) Starting a new post at James Watt School of Engineering, University of Glasgow.-->
 *	(02/2026) Serve as the PC member of [IEEE COINS 2026](https://coinsconf.com/).
 * (01/2026) Serve as the internal examiner for a PhD viva.
+
+## 2025
 * (12/2025) I am happy to share that my grant proposal (as PI) has been successful, awarded by the Royal Society.
   * My sincere gratitude goes to the Royal Society and the review panel for their trust and valuable evaluation, and to my colleagues and collaborators for their support throughout the process.
 * (11/2025) Gave a presentation in the CCS group of Engineering, titled "Intelligent and Cooperative Edge Computing: From Decision-Making to Sustainability".
