@@ -1,6 +1,6 @@
 ---
 permalink: /open-positions/
-title: "Openings"
+title: "Open Positions"
 layout: single
 author_profile: true
 redirect_from: 
