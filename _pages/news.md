@@ -9,7 +9,7 @@ redirect_from:
 ## 2026
 <!--* (09/2025) Starting a new post at James Watt School of Engineering, University of Glasgow.-->
 *	(02/2026) Serve as the PC member of [IEEE COINS 2026](https://coinsconf.com/).
-* (2/2026) A coauthor work titled "DRL-based Accurate Prediction of Network Latency for Personal Devices under Cost-aware Sampling [[DOI: 10.1109/TON.2026.3663723](https://ieeexplore.ieee.org/abstract/document/11393551)] has been accepted by **IEEE Transactions on Networking**.
+* (02/2026) A coauthor work titled "DRL-based Accurate Prediction of Network Latency for Personal Devices under Cost-aware Sampling [[DOI: 10.1109/TON.2026.3663723](https://ieeexplore.ieee.org/abstract/document/11393551)] has been accepted by **IEEE Transactions on Networking**.
 * (01/2026) Serve as the internal examiner for a PhD viva.
 
 ## 2025
