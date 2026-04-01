@@ -45,7 +45,7 @@ With their support, I am deeply inspired to pursue the research that advances kn
 <br />
 
 <em>If you think I could be helpful on your journey, please do not hesitate to reach out. </em>
-None of us walks alone. I am grateful for the kindness when I needed it most, and I hope to pass it on.
+None of us walks alone. I am grateful for the kindness when I needed it most, and hope to pass it on.
 
 <!--I feel deeply fortunate to have my academic journey with so many brilliant researchers and kind-hearted individuals. Therefore, I here express my heartfelt gratitude to my Ph.D. supervisors, postdoctoral advisor, co-authors, colleagues, and collaborators who have helped me along the way. Each of them has played meaningful role in shaping not only my research, but also who I am today.-->
 
