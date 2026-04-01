@@ -42,7 +42,6 @@ I feel incredibly fortunate to have shared my academic journey with many brillia
 
 With their support, I am deeply inspired to pursue the research that advances knowledge and creates meaningful, cross-disciplinary impact with a strong sense of purpose.
 <br />
-<br />
 
 <em>If you think I could be helpful on your journey, please do not hesitate to reach out. </em>
 
