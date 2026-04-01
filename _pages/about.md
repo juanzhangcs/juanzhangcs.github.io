@@ -67,7 +67,6 @@ I am very fortunate to work with many talented researchers and kind-hearted indi
 
 <br />
 <br />
-<br />
 
 # Contact
 
