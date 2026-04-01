@@ -41,7 +41,12 @@ I am also enthusiastic to teach and work with highly motivated students, and ver
 I feel deeply fortunate to have my academic journey with so many brilliant researchers and kind-hearted individuals. Therefore, I here express my heartfelt gratitude to my Ph.D. supervisors, postdoctoral advisor, co-authors, colleagues, and collaborators who have helped me along the way. Each of them has played an essential role in shaping not only my research, but also who I am as a person. Their unwavering support, patient guidance, and belief in me carried me through out the moments of ups and downs, reminding me to keep going even when the path was uncertain.
 
 With their support, I am deeply inspired to pursue the research that advances knowledge and creates meaningful, cross-disciplinary impact with a strong sense of purpose.
+<br />
+<br />
 
+<sup><sub>If you think I could be helpful on your journey, please do not hesitate to reach out.</sub></sup>
+
+</sub><sup>None of us walks the path alone. I am deeply grateful to those who showed me unexpected kindness when I needed it most, and I hope to pass on even a small part of that kindness to others. </sub></sup>
 <!--pursue research that pushes the frontiers of knowledge and embodies a profound sense of purpose to create meaningful, cross-disciplinary impact.-->
 
 <!--Through this journey, I aspire to contribute to building a more hopeful, inclusive, and better future.-->
