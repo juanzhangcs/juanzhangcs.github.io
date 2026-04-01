@@ -44,8 +44,8 @@ With their support, I am deeply inspired to pursue the research that advances kn
 <br />
 <br />
 
-<sup>If you think I could be helpful on your journey, please do not hesitate to reach out.</sup>
-<sup>None of us walks the path alone. I am deeply grateful to those who showed me unexpected kindness when I needed it most, and I hope to pass on even a small part of that kindness to others. </sup>
+<em>If you think I could be helpful on your journey, please do not hesitate to reach out.</em>
+None of us walks alone. I am deeply grateful to those who showed me unexpected kindness when I needed it most, and I hope to pass on even a small part of that kindness to others.
 <!--pursue research that pushes the frontiers of knowledge and embodies a profound sense of purpose to create meaningful, cross-disciplinary impact.-->
 
 <!--Through this journey, I aspire to contribute to building a more hopeful, inclusive, and better future.-->
