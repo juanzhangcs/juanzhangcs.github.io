@@ -38,7 +38,7 @@ I am also enthusiastic to teach and work with highly motivated students, and ver
 
 ## Acknowledgement
 
-I feel incredibly fortunate to have shared my academic journey with many brilliant and kind-hearted individuals. I am deeply grateful to my Ph.D. supervisors, postdoctoral advisor, co-authors, colleagues, and collaborators, whose support and guidance have shaped both my research and who I am today. Their unwavering support, patient guidance, and belief in me carried me through out the moments of ups and downs, reminding me to keep moving forward even in times of uncertainty.
+I feel incredibly fortunate to have shared my academic journey with many brilliant and kind-hearted individuals. In particular, I am deeply grateful to my Ph.D. supervisors, postdoctoral advisor, co-authors, colleagues, and collaborators, whose support and guidance have shaped both my research and who I am today. Their unwavering support, patient guidance, and belief in me carried me through out the moments of ups and downs, reminding me to keep moving forward even in times of uncertainty.
 
 With their support, I am deeply inspired to pursue the research that advances knowledge and creates meaningful, cross-disciplinary impact with a strong sense of purpose.
 <br />
