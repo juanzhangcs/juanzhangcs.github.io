@@ -29,7 +29,6 @@ My research interests include:
 * Mobile edge computing
 * AI-driven networking
 * Intelligent connected systems
-* Game theory teaming with reinforcement learning
 * Decision-making strategies in future mobile networks
  <br />
 
