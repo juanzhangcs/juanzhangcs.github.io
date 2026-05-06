@@ -27,7 +27,8 @@ I received my Ph.D. degree in [Computer Science](https://computerscience.exeter.
 My research interests include:
 
 * Mobile edge computing
-* Intelligent transportation systems
+* AI-driven networking
+* Intelligent connected systems
 * Game theory teaming with reinforcement learning
 * Decision-making strategies in future mobile networks
  <br />
