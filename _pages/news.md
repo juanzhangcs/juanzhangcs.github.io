@@ -8,10 +8,11 @@ redirect_from:
 ---
 ## 2026
 <!--* (09/2025) Starting a new post at James Watt School of Engineering, University of Glasgow.-->
-* (06/2026) A work entitled "Optimising QoS in HD Map Updates: Cross-Layer Multi-Agent with Multi-task and Mixed-Dependence (MTMD)" is accepted by **IEEE Transactions on Network and Service Management**. Congratulations, Jeffrey!
-*	(02/2026) Serve as the PC member of [IEEE COINS 2026](https://coinsconf.com/).
+* (06/2026) A work entitled "Optimising QoS in HD Map Updates: Cross-Layer Multi-Agent with Multi-task and Mixed-Dependence (MTMD)" has been accepted by **IEEE Transactions on Network and Service Management**. Congratulations, Jeffrey!
+* (06/2026) Served as an Internal Examiner for PhD Annual Progress Reviews (APRs).
+*	(02/2026) Served as the PC member of [IEEE COINS 2026](https://coinsconf.com/).
 * (02/2026) A coauthor work titled "DRL-based Accurate Prediction of Network Latency for Personal Devices under Cost-aware Sampling" [[DOI: 10.1109/TON.2026.3663723](https://ieeexplore.ieee.org/abstract/document/11393551)] has been accepted by **IEEE Transactions on Networking**.
-* (01/2026) Serve as the internal examiner for a PhD viva.
+* (01/2026) Served as the internal examiner for a PhD viva.
 
 ## 2025
 * (12/2025) I am happy to share that my grant proposal (as PI) has been successful, awarded by the Royal Society.
