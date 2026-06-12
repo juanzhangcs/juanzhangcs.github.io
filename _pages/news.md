@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## 2026
 <!--* (09/2025) Starting a new post at James Watt School of Engineering, University of Glasgow.-->
-* (06/2026) A work entitled "Optimising QoS in HD Map Updates: Cross-Layer Multi-Agent with Multi-task and Mixed-Dependence (MTMD)" has been accepted by **IEEE Transactions on Network and Service Management**. Congratulations, Jeffrey!
+* (06/2026) A work titled "Optimising QoS in HD Map Updates: Cross-Layer Multi-Agent with Multi-task and Mixed-Dependence (MTMD)" has been accepted by **IEEE Transactions on Network and Service Management**. Congratulations, Jeffrey!
 * (06/2026) Served as an Internal Examiner for PhD Annual Progress Reviews (APRs).
 *	(02/2026) Served as the PC member of [IEEE COINS 2026](https://coinsconf.com/).
 * (02/2026) A coauthor work titled "DRL-based Accurate Prediction of Network Latency for Personal Devices under Cost-aware Sampling" [[DOI: 10.1109/TON.2026.3663723](https://ieeexplore.ieee.org/abstract/document/11393551)] has been accepted by **IEEE Transactions on Networking**.
@@ -42,12 +42,12 @@ redirect_from:
 
 ## 2024
 
-* (12/2024) A work entitled "Multi-agent Assessment with QoS Enhancement for HD Map Updates in a Vehicular Network and Multi-service Environment" is accepted by **IEEE Transactions on Network Science and Engineering** [[DOI: 10.1109/TNSE.2024.3514744](https://ieeexplore.ieee.org/document/10787272)]. Congratulations, Jeffrey!
+* (12/2024) A work titled "Multi-agent Assessment with QoS Enhancement for HD Map Updates in a Vehicular Network and Multi-service Environment" is accepted by **IEEE Transactions on Network Science and Engineering** [[DOI: 10.1109/TNSE.2024.3514744](https://ieeexplore.ieee.org/document/10787272)]. Congratulations, Jeffrey!
 * (10/2024) Teach modules
   * KV6017: Enterprise Networks and Security, for year 3 undergraduate students, and
   * KF7023: Computer Networks & Operating Systems, for master students.
 * (10/2024) Review for the Journal Future Generation Computer Systems.
-* (09/2024) A paper entitled "Bridge to Real Environment with Hardware-in-the-loop for Wireless Artificial Intelligence Paradigms" is accepted by **IEEE GLOBECOM Workshop on Testbeds as a Service for Future Networks (TAASFN)**, Cape Town, South Africa, December 2024.
+* (09/2024) A paper titled "Bridge to Real Environment with Hardware-in-the-loop for Wireless Artificial Intelligence Paradigms" is accepted by **IEEE GLOBECOM Workshop on Testbeds as a Service for Future Networks (TAASFN)**, Cape Town, South Africa, December 2024.
 * (09/2024) Agreed to serve as TPC member, IEEE HPCC'2024.
 * (07/2024) A paper submitted by Jeffrey, my co-supervised PhD student, has been published in **WINCOM 2024** [[DOI: 10.1109/WINCOM62286.2024.10656951](https://ieeexplore.ieee.org/abstract/document/10656951)].
 * (07/2024) Visit Computer Networks Group, Georg-August-University of Göttingen, Germany, for one month, financially supported by the COVER project.<br />
@@ -56,9 +56,9 @@ redirect_from:
 * (03/2024) Served as a session chair of IEEE ICC'24, June.
 * (03/2024) A paper, submitted by my first co-supervised PhD student, has been accepted by IWCMC 2024 [[DOI: 10.1109/IWCMC61514.2024.10592335](https://ieeexplore.ieee.org/abstract/document/10592335)].
 * (03/2024) Served as TPC member of [IWCMC 2024 Vehicular Comm](https://iwcmc.net/2024/index.php) (IWCMC 2024 Vehicular Symposium).
-* (02/2024) Our work entitled "Eco-driving-based mixed vehicular platoon control model for successive signalized intersections" is accepted by Physica A: Statistical Mechanics and its Applications [[DOI: 10.1016/j.physa.2024.129641](https://doi.org/10.1016/j.physa.2024.129641)].
+* (02/2024) Our work titled "Eco-driving-based mixed vehicular platoon control model for successive signalized intersections" is accepted by Physica A: Statistical Mechanics and its Applications [[DOI: 10.1016/j.physa.2024.129641](https://doi.org/10.1016/j.physa.2024.129641)].
 * (02/2024) Been invited as a reviewer for Journals Information Sciences, Knowledge-Based Systems, Computer Communications, etc.
-* (02/2024) Our work entitled "PHIR: A Platform Solution of Data-Driven Health Monitoring for Industrial Robots" is accepted by Machine Intelligent Information and Efficient System, Electronics [[DOI: 10.3390/electronics13050834](https://www.mdpi.com/2079-9292/13/5/834)].
+* (02/2024) Our work titled "PHIR: A Platform Solution of Data-Driven Health Monitoring for Industrial Robots" is accepted by Machine Intelligent Information and Efficient System, Electronics [[DOI: 10.3390/electronics13050834](https://www.mdpi.com/2079-9292/13/5/834)].
 * (01/2024) Served as TPC member of ICC'2024.
 
 ## 2023
@@ -94,4 +94,4 @@ redirect_from:
 ## 2021
 
 * (06/2021) Gave a presentation in International Conference on Communications (ICC).
-* (06/2021) A paper entitled "An Intelligent Actuator of an Indoor Logistics System Based on Multi-Sensor Fusion" has been accepted by Journal, <i>Actuators</i>, 2021.
+* (06/2021) A paper titled "An Intelligent Actuator of an Indoor Logistics System Based on Multi-Sensor Fusion" has been accepted by Journal, <i>Actuators</i>, 2021.
