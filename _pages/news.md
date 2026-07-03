@@ -8,6 +8,7 @@ redirect_from:
 ---
 ## 2026
 <!--* (09/2025) Starting a new post at James Watt School of Engineering, University of Glasgow.-->
+* (07/2026) A work titled "Multi-objective SFC Placement with Future Demand Awareness in Dynamic Cross-Domain Networks" [[DOI: 10.1109/TNSM.2026.3708714](https://ieeexplore.ieee.org/document/11589440)] has been accepted by **IEEE Transactions on Network and Service Management**.
 * (06/2026) A work titled "Optimising QoS in HD Map Updates: Cross-Layer Multi-Agent with Multi-task and Mixed-Dependence (MTMD)" has been accepted by **IEEE Transactions on Network and Service Management**. Congratulations, Jeffrey!
 * (06/2026) Served as an Internal Examiner for PhD Annual Progress Reviews (APRs).
 *	(02/2026) Served as the PC member of [IEEE COINS 2026](https://coinsconf.com/).
