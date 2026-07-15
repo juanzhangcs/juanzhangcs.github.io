@@ -86,6 +86,6 @@ E-mail: juan.zhang@hsu-hh.de-->
 
  <br />
  <br />
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=285&t=n&d=rKGOkYk87D2AaYuuXW3hC0b67W1qgM1UuZOIW8Fp1UY'></script>
+<script type='text/javascript' id='clustrmaps' src='https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=285&t=n&d=rKGOkYk87D2AaYuuXW3hC0b67W1qgM1UuZOIW8Fp1UY'></script>
  <br />
  <br />
