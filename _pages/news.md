@@ -93,7 +93,7 @@ redirect_from:
 * (06/2022) Been invited as a reviewer of IEEE Transactions on Network and Service Management.
   <!--* (06/2022) Passed the defense of Ph.D. dissertation.-->
   
-## 2021
+<!-- ## 2021 -->
 
 * (06/2021) Gave a presentation in International Conference on Communications (ICC).
 * (06/2021) A paper titled "An Intelligent Actuator of an Indoor Logistics System Based on Multi-Sensor Fusion" has been accepted by Journal, <i>Actuators</i>, 2021. -->
