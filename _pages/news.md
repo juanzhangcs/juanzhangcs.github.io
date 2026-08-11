@@ -77,7 +77,7 @@ redirect_from:
 * (06/2023) Co-author work entitled "Advancing Maritime Search and Rescue with Object Detection and Digital Twin Condition Monitoring" is presented in World Maritime Rescue Congress (WMRC 2023), Rotterdam , Netherlands.
 * (02/2023) We have multiple chances of "EU Master in HPC project" in AI, computer architecture, performance engineering, etc. for double degree, please feel free to contact if you are interested.
 
-## 2022
+<!-- ## 2022
 
 * (10/2022) Been invited as a reviewer of Journal Information Sciences.
 * (10/2022) Been invited as a reviewer of Journal Expert Systems With Applications.
@@ -96,4 +96,4 @@ redirect_from:
 ## 2021
 
 * (06/2021) Gave a presentation in International Conference on Communications (ICC).
-* (06/2021) A paper titled "An Intelligent Actuator of an Indoor Logistics System Based on Multi-Sensor Fusion" has been accepted by Journal, <i>Actuators</i>, 2021.
+* (06/2021) A paper titled "An Intelligent Actuator of an Indoor Logistics System Based on Multi-Sensor Fusion" has been accepted by Journal, <i>Actuators</i>, 2021. -->
