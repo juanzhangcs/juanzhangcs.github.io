@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## 2026
 <!--* (09/2025) Starting a new post at James Watt School of Engineering, University of Glasgow.-->
-* (06/2026) Served as a TPC member of [IEEE NextGCom 2026](https://nextgcom.net/)
+* (08/2026) Served as a TPC member of [IEEE NextGCom 2026](https://nextgcom.net/).
 * (06/2026) A work titled "Multi-objective SFC Placement with Future Demand Awareness in Dynamic Cross-Domain Networks" [[DOI: 10.1109/TNSM.2026.3708714](https://ieeexplore.ieee.org/document/11589440)] has been accepted by **IEEE Transactions on Network and Service Management**.
 * (06/2026) I am very happy to share that I have been elevated to IEEE Senior Member!
 * (06/2026) A work titled "Optimising QoS in HD Map Updates: Cross-Layer Multi-Agent with Multi-task and Mixed-Dependence (MTMD)" [[DOI: 10.1109/TNSM.2026.3705270](https://ieeexplore.ieee.org/document/11570949)] has been accepted by **IEEE Transactions on Network and Service Management**. Congratulations, Jeffrey!
