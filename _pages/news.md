@@ -9,6 +9,11 @@ redirect_from:
 ## 2026
 <!--* (09/2025) Starting a new post at James Watt School of Engineering, University of Glasgow.-->
 * (08/2026) Involved in the local team hosting [IEEE Section Congress 2026 - Leading Technology for Global Good](https://2026.sections-congress.ieee.org/).
+    ![IEEE Sections Congress 2026](IEEE.jpeg)
+  <!-- <div style="display: flex; gap: 10px;">
+    <img src="IEEE.jpeg" alt="现场照片1" width="45%" />
+    <!-- <img src="图片地址2.jpg" alt="现场照片2" width="45%" /> -->
+  <!-- </div> --> -->
 * (08/2026) Served as a TPC member of [IEEE NextGCom 2026](https://nextgcom.net/).
 * (06/2026) A work titled "Multi-objective SFC Placement with Future Demand Awareness in Dynamic Cross-Domain Networks" [[DOI: 10.1109/TNSM.2026.3708714](https://ieeexplore.ieee.org/document/11589440)] has been accepted by **IEEE Transactions on Network and Service Management**.
 * (06/2026) I am very happy to share that I have been elevated to IEEE Senior Member!
