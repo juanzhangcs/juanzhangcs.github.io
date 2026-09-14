@@ -8,6 +8,7 @@ redirect_from:
 ---
 ## 2026
 <!--* (09/2025) Starting a new post at James Watt School of Engineering, University of Glasgow.-->
+* (09/2026) Served as the internal examiner for two PhD vivas. 
 * (08/2026) Involved in the local team hosting [IEEE Section Congress 2026 - Leading Technology for Global Good](https://2026.sections-congress.ieee.org/).
   
 <div style="text-align: center; margin-top: 12px;">
