@@ -10,13 +10,15 @@ redirect_from:
 {% include base_path %}
 
 ### 2026 - 2027
-* Wireless Sensor Networks, module teaching for year 4 undergraduates, Semester 1 
-* Digital Circuit Design, module teaching for year 3 undergraduates, Semester 1
+* Final year project (Project supervision * 3 undergraduate students) + FYP presentations, Semester 2
+* UESTC2004: Embedded Processors,module teaching for year 2 undergraduates, Semester 2 
+* UESTCHN4017/UESTC4020: Wireless Sensor Networks, module teaching for year 4 undergraduates, Semester 1 
+* UESTC3020/UESTCHN3006: Digital Circuit Design, module teaching for year 3 undergraduates, Semester 1
 
 ### 2025 - 2026
 * Final year project, Semester 2
-* Electronic Devices, module teaching for year 3 undergraduates, Semester 1
-* Digital Circuit Design, module teaching for year 3 undergraduates, Semester 1
+* UESTC3002/UESTCHN3008: Electronic Devices, module teaching for year 3 undergraduates, Semester 1
+* UESTC3020/UESTCHN3006: Digital Circuit Design, module teaching for year 3 undergraduates, Semester 1
 
 ### Spring 2025
 * KF7031: Wireless Networks and Security.
