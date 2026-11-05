@@ -10,26 +10,22 @@ redirect_from:
 {% include base_path %}
 
 ### 2026 -- 2027
-*Semester 2*
-* UESTC2004: Embedded Processors
-  * Lectures and workshops for year 2 undergraduates. 
-* Final year project (Project supervision × 3 undergraduate students)
-* FYP presentations
+* Embedded Processors. Term 2
+  * Lectures and workshops for year 2 undergraduates.Term 2 
+* Final year project upervision (× 3 undergraduate students). Term 2
+* FYP presentations. Term 2
 
-*Semester 1* 
-* UESTCHN4017/UESTC4020: Wireless Sensor Networks
+* Wireless Sensor Networks. Term 1
   * Lectures and workshops for year 4 undergraduates.
-* UESTC3020/UESTCHN3006: Digital Circuit Design
+* Digital Circuit Design. Term 2
   * Lectures and workshops for year 3 undergraduates.
 
 ### 2025 -- 2026
-*Semester 2*
-* Final year project.
+* Final year project. Term 2
 
-*Semester 1*
-* UESTC3002/UESTCHN3008: Electronic Devices
+* Electronic Devices. Term 1
     * Lectures and workshops for year 3 undergraduates. 
-* UESTC3020/UESTCHN3006: Digital Circuit Design
+* Digital Circuit Design. Term 1
     * Lectures and workshops for year 3 undergraduates.
 
 ### Spring 2025
