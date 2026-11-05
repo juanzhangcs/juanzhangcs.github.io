@@ -17,7 +17,7 @@ redirect_from:
 
 * Wireless Sensor Networks. Term 1
   * Lectures and workshops for year 4 undergraduates.
-* Digital Circuit Design. Term 2
+* Digital Circuit Design. Term 1
   * Lectures and workshops for year 3 undergraduates.
 
 ### 2025 -- 2026
