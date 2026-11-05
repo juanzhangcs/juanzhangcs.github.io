@@ -11,7 +11,7 @@ redirect_from:
 
 ### 2026 -- 2027
 * Embedded Processors. Term 2
-  * Lectures and workshops for year 2 undergraduates.Term 2 
+  * Lectures and workshops for year 2 undergraduates.
 * Final year project upervision (× 3 undergraduate students). Term 2
 * FYP presentations. Term 2
 
